@@ -1016,5 +1016,362 @@
         "required": true
       }
     ]
+  },
+  {
+    "id": "simplilearn-video-privacy-2026",
+    "title": "Simplilearn Video Privacy",
+    "company": "Simplilearn",
+    "category": "Privacy",
+    "deadline": "2026-12-15",
+    "sourceUrl": "https://www.simplilearnprivacysettlement.com/",
+    "filingUrl": "https://www.simplilearnprivacysettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "People who accessed or used the Simplilearn platform while in the U.S. between February 26, 2023 and September 16, 2026 may fall within the settlement class.",
+    "benefit": "Valid claimants may receive a pro-rata share of the $3 million settlement fund; the amount cannot be guaranteed.",
+    "proof": [
+      "Dates when you accessed or used Simplilearn in the U.S.",
+      "Any account information or settlement notice received",
+      "Claim confirmation from the official administrator"
+    ],
+    "questions": [
+      {
+        "id": "us",
+        "label": "Did you access or use the Simplilearn platform while in the United States?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "period",
+        "label": "Was your access or use between February 26, 2023 and September 16, 2026?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "class",
+        "label": "Do you satisfy the administrator's applicable settlement class definition?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "bigelow-tea-labeling-2027",
+    "title": "Bigelow Tea Made-in-USA Labeling",
+    "company": "Bigelow Tea",
+    "category": "Products",
+    "deadline": "2027-02-08",
+    "sourceUrl": "https://www.teaclassaction.com/",
+    "filingUrl": "https://www.teaclassaction.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "Certain Bigelow 18/20-count tea boxes labeled 'Manufactured in the USA 100% American Family Owned' purchased in a California retail store may be covered.",
+    "benefit": "Eligible claimants may receive up to $10 without proof of purchase or up to $20 with proof, depending on qualifying tea boxes and approved claims.",
+    "proof": [
+      "Name and count of specific covered Bigelow tea products",
+      "Proof of a California retail-store purchase, if available",
+      "Purchase dates between October 17, 2017 and July 31, 2023"
+    ],
+    "questions": [
+      {
+        "id": "ca",
+        "label": "Did you buy the tea at a retail store in California?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "product",
+        "label": "Was it one of the administrator's specific covered 18/20-count Bigelow tea boxes with the cited label?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "period",
+        "label": "Was the purchase between October 17, 2017 and July 31, 2023?",
+        "expected": "yes",
+        "required": true
+      }
+    ],
+    "activityStart": "2017-10-17",
+    "activityEnd": "2023-07-31",
+    "receiptMatch": [
+      "bigelow tea",
+      "bigelow"
+    ]
+  },
+  {
+    "id": "dental-intelligence-localmed-2027",
+    "title": "Dental Intelligence LocalMed Privacy",
+    "company": "Dental Intelligence",
+    "category": "Privacy",
+    "deadline": "2027-01-25",
+    "sourceUrl": "https://www.disettlement.com/",
+    "filingUrl": "https://www.disettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "Certain U.S. users of the LocalMed appointment portal between March 2022 and June 2025 may be covered if information they shared was allegedly disclosed to Google or another unauthorized third party.",
+    "benefit": "The proposed settlement provides pro-rata cash payments to eligible class members filing timely claims, subject to court approval.",
+    "proof": [
+      "Details about scheduling or modifying appointments through LocalMed",
+      "Approximate dates of use during March 2022–June 2025",
+      "Claim ID or notification received, if any"
+    ],
+    "questions": [
+      {
+        "id": "us",
+        "label": "Were you in the United States when you used the LocalMed portal?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "used",
+        "label": "Did you schedule, reschedule, or modify an appointment using LocalMed?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "period",
+        "label": "Did that occur between March 2022 and June 2025?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "disclosure",
+        "label": "Was information you shared allegedly disclosed to Google or another unauthorized party as described in the official class definition?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "seeeyewear-tcpa-2026",
+    "title": "SeeEyeWear Marketing Texts",
+    "company": "SeeEyeWear",
+    "category": "Privacy",
+    "deadline": "2026-11-27",
+    "sourceUrl": "https://seeeyeweartcpasettlement.com/",
+    "filingUrl": "https://seeeyeweartcpasettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "Certain recipients of SeeEyeWear marketing texts between August 14, 2021 and August 14, 2025 may be covered after opting out or while registered on the National Do Not Call Registry.",
+    "benefit": "The settlement advertises up to $290 per qualifying text message for eligible people filing one valid claim, subject to fund limits and administrator validation.",
+    "proof": [
+      "Texts or screenshots showing sender, dates and content",
+      "Evidence of STOP/opt-out message or applicable Do Not Call registration",
+      "Phone number used during the covered period"
+    ],
+    "questions": [
+      {
+        "id": "period",
+        "label": "Did the texts occur between August 14, 2021 and August 14, 2025?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "marketing",
+        "label": "Were the SeeEyeWear text messages marketing products or services?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "multiple",
+        "label": "Did you receive more than one covered marketing text within a 12-month period?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "dnc",
+        "label": "Were the texts sent after you opted out or while your phone number was on the Do Not Call Registry?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "fairmont-fcu-data-2026",
+    "title": "Fairmont Federal Credit Union Data Incident",
+    "company": "Fairmont Federal Credit Union",
+    "category": "Data breach",
+    "deadline": "2026-12-18",
+    "sourceUrl": "https://www.ffcudatasettlement.com/",
+    "filingUrl": "https://www.ffcudatasettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "United States individuals whose private information was potentially affected by Fairmont Federal Credit Union's data incident between September 30 and October 18, 2023 may be covered.",
+    "benefit": "Valid claims may qualify for eligible documented losses up to $7,500, a pro-rata cash alternative up to $150, limited lost-time reimbursement, or credit monitoring.",
+    "proof": [
+      "Fairmont Federal Credit Union notice about the incident",
+      "Documentation for unreimbursed incident-related expenses, if claimed",
+      "Supporting proof for lost time, if claiming that category"
+    ],
+    "questions": [
+      {
+        "id": "us",
+        "label": "Were you an individual in the United States?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "incident",
+        "label": "Was your private information potentially impacted in Fairmont Federal Credit Union's September–October 2023 data incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "class",
+        "label": "Do you meet the administrator's settlement class definition?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "park-dental-data-2026",
+    "title": "Park Dental January 2024 Data Incident",
+    "company": "Park Dental",
+    "category": "Data breach",
+    "deadline": "2026-12-28",
+    "sourceUrl": "https://www.parkdentaldatasecuritysettlement.com/frequently-asked-questions.aspx",
+    "filingUrl": "https://www.parkdentaldatasecuritysettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "Living U.S. residents whose private information was potentially compromised in Park Dental's January 2024 employee-account data security incident may qualify.",
+    "benefit": "Eligible class members may claim documented unreimbursed losses up to $2,500, an alternative lost-time payment for specifically affected records, and/or one year of credit monitoring.",
+    "proof": [
+      "Park Dental data incident notice or administrator confirmation",
+      "Documentation of qualifying unreimbursed losses if claimed",
+      "Evidence of impacted SSN/driver's license numbers only if claiming the alternative lost-time option"
+    ],
+    "questions": [
+      {
+        "id": "us",
+        "label": "Are you a living individual in the United States?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "affected",
+        "label": "Was your private information potentially compromised in Park Dental's January 2024 data incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you an excluded Park Dental director, officer, agent, government entity or court-related person?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "covenant-health-data-2027",
+    "title": "Covenant Health May 2025 Data Incident",
+    "company": "Covenant Health",
+    "category": "Data breach",
+    "deadline": "2027-02-11",
+    "sourceUrl": "https://covenanthealthdatasettlement.com/faq",
+    "filingUrl": "https://covenanthealthdatasettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "Living U.S. residents whose private information was compromised in the May 2025 Covenant Health breach and who were sent notice may fall within the settlement class.",
+    "benefit": "Valid claimants may seek documented unreimbursed losses up to $5,000 or a pro-rata cash payment estimated at $75. Certain monitoring benefits are separately available to class members.",
+    "proof": [
+      "Covenant Health data incident notice or class-member identifier",
+      "Documents supporting any claimed unreimbursed breach-related losses",
+      "Details sufficient to match the original administrator notice"
+    ],
+    "questions": [
+      {
+        "id": "us",
+        "label": "Were you living in the United States at the time?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "affected",
+        "label": "Was your private information compromised by the Covenant Health data incident around May 18, 2025?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "notice",
+        "label": "Were you sent notice about that data incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you an excluded Covenant Health officer/director or court-related person?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "grayback-forestry-data-2026",
+    "title": "Grayback Forestry January 2026 Breach",
+    "company": "Grayback Forestry",
+    "category": "Data breach",
+    "deadline": "2026-12-28",
+    "sourceUrl": "https://www.graybackforestrydatasettlement.com/faq/",
+    "filingUrl": "https://www.graybackforestrydatasettlement.com/form/claim",
+    "reviewedAt": "2026-11-16",
+    "summary": "People directly notified that private information may have been compromised in Grayback Forestry's January 2026 data breach may qualify, subject to exclusions.",
+    "benefit": "Valid class claims may seek up to $5,000 in eligible losses, limited lost-time reimbursement, an alternative $65 payment, or three years of credit monitoring.",
+    "proof": [
+      "Grayback Forestry notice, LoginID and PIN if available",
+      "Records of unreimbursed losses caused by the breach, if applicable",
+      "Evidence of time spent responding to the incident, if claiming lost time"
+    ],
+    "questions": [
+      {
+        "id": "notice",
+        "label": "Did you receive direct notice from Grayback Forestry of the January 2026 breach?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "information",
+        "label": "Was your private information potentially compromised?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you a Grayback official, incident perpetrator or excluded court-related person?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "blue-ridge-water-data-2027",
+    "title": "Blue Ridge Rural Water July 2024 Data Incident",
+    "company": "Blue Ridge Rural Water Company",
+    "category": "Data breach",
+    "deadline": "2027-01-14",
+    "sourceUrl": "https://www.blueridgedatasettlement.com/faq/",
+    "filingUrl": "https://www.blueridgedatasettlement.com/form/claim",
+    "reviewedAt": "2026-11-16",
+    "summary": "U.S. residents whose private information was affected in the July 2024 Blue Ridge Rural Water Company data incident may be covered, including those who received administrator notice.",
+    "benefit": "Eligible claims may include ordinary unreimbursed losses up to $500, extraordinary losses up to $2,500, a $50 cash alternative, and/or two years of credit monitoring.",
+    "proof": [
+      "Blue Ridge data-incident notice with LoginID/PIN if received",
+      "Proof of actual unreimbursed losses and dates if claimed",
+      "Administrator-required identification information"
+    ],
+    "questions": [
+      {
+        "id": "us",
+        "label": "Did you reside in the United States when the incident affected you?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "affected",
+        "label": "Was your private information impacted in the July 2024 Blue Ridge Rural Water breach?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you excluded as an officer/director, perpetrator, or court-related person?",
+        "expected": "no",
+        "required": true
+      }
+    ]
   }
 ]
