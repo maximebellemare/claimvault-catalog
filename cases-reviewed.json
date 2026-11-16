@@ -1373,5 +1373,1185 @@
         "required": true
       }
     ]
+  },
+  {
+    "id": "bauer-built-security-2026",
+    "title": "Bauer Built April 2023 Data Incident",
+    "company": "Bauer Built",
+    "category": "Data breach",
+    "deadline": "2026-12-31",
+    "sourceUrl": "https://bauersecurityincident.com/",
+    "filingUrl": "https://bauersecurityincident.com/form/claim",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed settlement for U.S. residents sent notice that personal information may have been affected by Bauer Built's April 16–21, 2023 security incident.",
+    "benefit": "Class members may request credit monitoring and eligible cash benefits, subject to the administrator's rules and proof requirements.",
+    "proof": [
+      "Security-incident or settlement notice with LoginID and PIN",
+      "Documentation supporting any unreimbursed losses or time claimed",
+      "Claim confirmation from the administrator after filing"
+    ],
+    "questions": [
+      {
+        "id": "usa",
+        "label": "Were you residing in the United States?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "notice",
+        "label": "Were you sent notice by or on behalf of Bauer Built that your information could be affected by the April 2023 incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you an excluded Bauer Built officer/director, court-related person or individual who perpetrated the incident?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "cardiology-mobile-data-2026",
+    "title": "Cardiology Associates of Mobile Data Incident",
+    "company": "Cardiology Associates of Mobile",
+    "category": "Data breach",
+    "deadline": "2026-12-29",
+    "sourceUrl": "https://cardiologydataincident.com/",
+    "filingUrl": "https://cardiologydataincident.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "Private information of certain patients and providers may have been affected by an October 22, 2024 data incident involving Cardiology Associates of Mobile.",
+    "benefit": "A valid timely claim may provide credit monitoring, reimbursement of supported out-of-pocket losses or a pro-rata cash payment. Approval and amounts depend on the administrator.",
+    "proof": [
+      "Cardiology Associates notice or class-member identifier if supplied",
+      "Supporting documentation for any out-of-pocket losses requested",
+      "Contact details required on the administrator's claim form"
+    ],
+    "questions": [
+      {
+        "id": "us",
+        "label": "Were you living in the United States?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "affected",
+        "label": "Was your personal or health information identified as at issue in the Cardiology Associates of Mobile October 2024 incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "rules",
+        "label": "Do you meet the class definition and other conditions in the administrator's notice?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "dothouse-data-2027",
+    "title": "DotHouse Health November 2022 Data Incident",
+    "company": "DotHouse Health",
+    "category": "Data breach",
+    "deadline": "2027-01-29",
+    "sourceUrl": "https://www.dothousedatasettlement.com/faq/",
+    "filingUrl": "https://www.dothousedatasettlement.com/form/claim",
+    "reviewedAt": "2026-11-16",
+    "summary": "DotHouse Health's November 2022 cyber incident allegedly affected some patient records. The settlement class centers on the notice class, with separate participation rules for people outside Massachusetts.",
+    "benefit": "Eligible class members can request medical-identity monitoring and either certain documented-loss reimbursement up to $2,000 or an alternative pro-rata cash payment, estimated at $40 and not guaranteed.",
+    "proof": [
+      "DotHouse notice and LoginID/PIN or administrator class verification",
+      "Receipts, statements or other third-party evidence for unreimbursed loss claims",
+      "Confirmation of any applicable Massachusetts residency or participation requirements"
+    ],
+    "questions": [
+      {
+        "id": "usa",
+        "label": "Do you reside in the United States?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "notice",
+        "label": "Were you sent DotHouse's notice of the November 2022 incident or otherwise confirmed as part of the Notice Class?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "residency",
+        "label": "If you do not reside in Massachusetts, have you checked and satisfied the administrator's additional participation requirements?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you an excluded DotHouse director/officer or court-related person?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "renkim-data-2027",
+    "title": "Renkim Corporation March 2025 Data Incident",
+    "company": "Renkim Corporation",
+    "category": "Data breach",
+    "deadline": "2027-01-13",
+    "sourceUrl": "https://renkimdatasettlement.com/dates/",
+    "filingUrl": "https://renkimdatasettlement.com/form/claim",
+    "reviewedAt": "2026-11-16",
+    "summary": "A settlement for living U.S. residents sent notice that their private information was affected by Renkim's March 2025 targeted cyberattack.",
+    "benefit": "Possible benefits include credit monitoring and either eligible documented-loss and lost-time payments or a $40 cash alternative; choices are subject to administrator rules.",
+    "proof": [
+      "Renkim incident notice, LoginID and PIN",
+      "Expense records for any loss reimbursements requested",
+      "Time logs or supporting details for any qualifying incident-response time"
+    ],
+    "questions": [
+      {
+        "id": "us",
+        "label": "Were you a living U.S. resident included in the Renkim notice class?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "notice",
+        "label": "Did Renkim notify you about the March 2025 incident affecting your information?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you a corporate officer, governmental entity, court-related person or otherwise excluded by the notice?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "eyecare-partners-data-2027",
+    "title": "EyeCare Partners December 2024–January 2025 Incident",
+    "company": "EyeCare Partners",
+    "category": "Data breach",
+    "deadline": "2027-01-26",
+    "sourceUrl": "https://www.eyecarepartnerssettlement.com/",
+    "filingUrl": "https://www.eyecarepartnerssettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A settlement for people whose private information may have been accessed during EyeCare Partners' data incident from December 3, 2024 through January 28, 2025.",
+    "benefit": "Filing a valid claim may yield documented-loss reimbursement up to $3,000 or a $50 alternative cash payment. Medical monitoring is a separate benefit; the notice says it does not require a cash claim.",
+    "proof": [
+      "EyeCare Partners incident or settlement notice",
+      "Receipts or statements for eligible, unreimbursed incident-related losses",
+      "Any claim identifier required to submit a cash-payment request"
+    ],
+    "questions": [
+      {
+        "id": "affected",
+        "label": "Was your private information potentially accessed in the specified EyeCare Partners incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "class",
+        "label": "Do you meet the settlement administrator's class definition?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Have you opted out, or are you otherwise excluded from the settlement?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "mullinax-ford-data-2026",
+    "title": "Mullinax Ford February 2026 Data Incident",
+    "company": "Mullinax Ford of Central Florida",
+    "category": "Data breach",
+    "deadline": "2026-11-23",
+    "sourceUrl": "https://mullinaxcardealershipsettlement.com/",
+    "filingUrl": "https://mullinaxcardealershipsettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "The class includes certain U.S. citizens whose private information may have been compromised in Mullinax Ford of Central Florida's February 2026 incident.",
+    "benefit": "The administrator offers qualifying data-incident benefits, which may include an alternative cash payment, documented-loss reimbursement, lost-time recovery or credit monitoring, depending on the claim.",
+    "proof": [
+      "Mullinax Ford settlement notice with Notice ID and confirmation code",
+      "Records of documented losses or response time if requesting those payments",
+      "Official claim submission confirmation"
+    ],
+    "questions": [
+      {
+        "id": "citizen",
+        "label": "Are you included among the U.S. citizens described by the administrator's notice?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "incident",
+        "label": "Was your personal information potentially compromised in the Mullinax Ford February 2026 incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "notice",
+        "label": "Did Mullinax notify you of the incident or otherwise confirm that you are a class member?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "johnson-controls-data-2027",
+    "title": "Johnson Controls 2023 Data Incident",
+    "company": "Johnson Controls",
+    "category": "Data breach",
+    "deadline": "2027-02-01",
+    "sourceUrl": "https://johnsoncontrolsdatasettlement.com/",
+    "filingUrl": "https://johnsoncontrolsdatasettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A court-authorized settlement for living U.S. residents sent notice that information may have been affected by a Johnson Controls incident spanning February–September 2023.",
+    "benefit": "Valid claims may seek up to $5,000 in supported losses or an estimated $50 alternative cash payment, as well as two years of credit monitoring; estimates are not guarantees.",
+    "proof": [
+      "Johnson Controls breach or settlement notice",
+      "Receipts, financial statements or comparable records for claimed losses",
+      "Administrator-provided identification details if requested"
+    ],
+    "questions": [
+      {
+        "id": "us",
+        "label": "Are you a living person residing in the United States?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "notice",
+        "label": "Were you sent notice that information may have been affected by Johnson Controls' February–September 2023 data incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "class",
+        "label": "Do you meet the full settlement class definition, including any exclusions?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "cornwell-quality-tools-data-2027",
+    "title": "Cornwell Quality Tools December 2024 Incident",
+    "company": "Cornwell Quality Tools",
+    "category": "Data breach",
+    "deadline": "2027-01-25",
+    "sourceUrl": "https://cqtcybersettlement.com/",
+    "filingUrl": "https://cqtcybersettlement.com/form/claim",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed settlement for people notified by Cornwell Quality Tools of a December 2024 data incident, announced publicly in September 2025.",
+    "benefit": "Eligible benefits include two years of identity monitoring plus a $50 cash alternative or qualifying documented-loss and lost-time reimbursements up to the settlement's limits.",
+    "proof": [
+      "Cornwell Quality Tools incident or settlement notice with LoginID/PIN",
+      "Statements or invoices proving unreimbursed expenses, if claimed",
+      "Description and records of eligible lost time, if claimed"
+    ],
+    "questions": [
+      {
+        "id": "notice",
+        "label": "Were you sent notice from Cornwell Quality Tools that your information may have been affected?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "incident",
+        "label": "Did the notice concern the December 2024 data incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you excluded under the court-approved class definition?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "lakeside-pediatric-data-2027",
+    "title": "Lakeside Pediatric October 2024 Data Incident",
+    "company": "Lakeside Pediatric & Adolescent Medicine",
+    "category": "Data breach",
+    "deadline": "2027-01-28",
+    "sourceUrl": "https://www.lakesidesettlement.com/faq/",
+    "filingUrl": "https://www.lakesidesettlement.com/form/claim",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed settlement for living U.S. residents sent notice that information may have been involved in the October 2024 cyberattack on Lakeside Pediatric's systems.",
+    "benefit": "The administrator describes cash and other data-incident benefits, contingent on a valid claim and the applicable notice provisions.",
+    "proof": [
+      "Lakeside Pediatric data incident or settlement notice",
+      "Any member identification or PIN provided by the administrator",
+      "Documentation of eligible unreimbursed losses if requested"
+    ],
+    "questions": [
+      {
+        "id": "us",
+        "label": "Are you a living individual residing in the United States?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "notice",
+        "label": "Were you sent notice about the October 2024 Lakeside Pediatric data incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you excluded by the settlement terms, including as a defendant officer, court-related person, government body or incident perpetrator?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "bestway-pool-straps-2026",
+    "title": "Bestway Above-Ground Pool Strap Design",
+    "company": "Bestway",
+    "category": "Products",
+    "deadline": "2026-11-19",
+    "sourceUrl": "https://www.poolsettlementbw.com/faqs/",
+    "filingUrl": "https://www.poolsettlementbw.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed settlement for U.S. personal-use purchasers of certain 2008–2024 Bestway-branded above-ground pools that are at least 48 inches tall and have exterior compression straps.",
+    "benefit": "The administrator describes possible cash awards equal to 10% of a qualifying purchase value with accepted proof, or $40 without proof. This settlement does not change separate pool recall or injury rights.",
+    "proof": [
+      "Pool brand and model, height, and exterior strap layout",
+      "Purchase invoice or dated receipt if seeking the purchase-value award",
+      "Details confirming personal use rather than resale"
+    ],
+    "questions": [
+      {
+        "id": "country",
+        "label": "Was the pool purchased in the United States or its territories for personal use, not resale?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "period",
+        "label": "Was it purchased between 2008 and 2024?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "model",
+        "label": "Is it a covered Bestway-branded above-ground pool at least 48 inches tall?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "strap",
+        "label": "Are compression straps located outside the vertical support poles?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you an excluded wholesaler, retailer, second-hand buyer or other excluded party?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "lake-compounce-ticket-fees-2026",
+    "title": "Lake Compounce Online Ticket Processing Fees",
+    "company": "Lake Compounce",
+    "category": "Tickets",
+    "deadline": "2026-11-24",
+    "sourceUrl": "https://www.lakecompounceticketfeesettlement.com/Home/FAQ",
+    "filingUrl": "https://www.lakecompounceticketfeesettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "Purchasers of electronic tickets to Lake Compounce through its website between October 1, 2023 and June 12, 2025 who paid processing fees may be covered.",
+    "benefit": "Valid claims may receive a pro-rata payment calculated in part from paid processing fees; the actual amount depends on approved claims and expenses.",
+    "proof": [
+      "Lake Compounce electronic ticket order confirmation",
+      "Payment date between October 1, 2023 and June 12, 2025",
+      "Processing-fee amount shown on the order"
+    ],
+    "questions": [
+      {
+        "id": "tickets",
+        "label": "Did you buy Lake Compounce electronic admission tickets through the park's website?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "period",
+        "label": "Was the purchase between October 1, 2023 and June 12, 2025?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "fee",
+        "label": "Did the ticket transaction include a processing fee?",
+        "expected": "yes",
+        "required": true
+      }
+    ],
+    "activityStart": "2023-10-01",
+    "activityEnd": "2025-06-12",
+    "receiptMatch": [
+      "lake compounce"
+    ]
+  },
+  {
+    "id": "red-coats-incident-2027",
+    "title": "Red Coats May 2025 Data Incident",
+    "company": "Red Coats",
+    "category": "Data breach",
+    "deadline": "2027-01-07",
+    "sourceUrl": "https://www.redcoatssettlement.com/faq",
+    "filingUrl": "https://www.redcoatssettlement.com/form/claim",
+    "reviewedAt": "2026-11-16",
+    "summary": "A data-incident settlement for individuals whose private information was compromised in a May 2025 cyberattack on Red Coats and who received written notice.",
+    "benefit": "Valid class members may request one year of credit monitoring and eligible cash reimbursement options, subject to documented expenses and the administrator's terms.",
+    "proof": [
+      "Written Red Coats incident or settlement notification",
+      "Claim login details if provided",
+      "Receipts or financial records supporting unreimbursed incident-related expenses"
+    ],
+    "questions": [
+      {
+        "id": "notice",
+        "label": "Were you sent written notice that the Red Coats May 2025 incident affected your private information?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "incident",
+        "label": "Was your personal information implicated by the May 2025 incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you an excluded judge or person convicted of perpetrating the incident?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "nysid-data-2027",
+    "title": "New York School of Interior Design Data Incident",
+    "company": "New York School of Interior Design",
+    "category": "Data breach",
+    "deadline": "2027-01-12",
+    "sourceUrl": "https://www.nysiddatasettlement.com/faq",
+    "filingUrl": "https://www.nysiddatasettlement.com/form/claim/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A settlement for U.S. residents whose personal information was affected by the November 2023 New York School of Interior Design cyberattack.",
+    "benefit": "Qualifying class members may request monitoring and either certain supported ordinary/extraordinary losses or a $50 cash alternative, according to the administrator.",
+    "proof": [
+      "NYSID data-incident notice and login information if provided",
+      "Records documenting any ordinary or extraordinary losses claimed",
+      "Official submission reference after filing"
+    ],
+    "questions": [
+      {
+        "id": "us",
+        "label": "Were you residing in the United States?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "affected",
+        "label": "Was your personal information affected by NYSID's November 2023 data incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "class",
+        "label": "Do you meet the administrator's current class definition?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Did you opt out or fall within a listed exclusion?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "kisco-senior-living-2027",
+    "title": "Kisco Senior Living June 2023 Data Incident",
+    "company": "Kisco Senior Living",
+    "category": "Data breach",
+    "deadline": "2027-01-19",
+    "sourceUrl": "https://www.kiscosettlement.com/",
+    "filingUrl": "https://www.kiscosettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "The proposed settlement covers individual U.S. residents to whom Kisco Senior Living sent written notice of a data incident that occurred June 1–6, 2023.",
+    "benefit": "Depending on approved documentation, possible benefits include credit monitoring, ordinary or extraordinary losses, time spent responding, and a separate California-resident benefit.",
+    "proof": [
+      "Kisco's written incident notice",
+      "Receipts or statements for claimed unreimbursed losses",
+      "Details of residency at the time of the incident for any California-specific benefit"
+    ],
+    "questions": [
+      {
+        "id": "us",
+        "label": "Were you an individual U.S. resident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "notice",
+        "label": "Did Kisco Senior Living send you written notice about its June 2023 data incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "class",
+        "label": "Do you meet the administrator's class definition and the specific option requirements?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "jbs-mental-health-data-2026",
+    "title": "JBS Mental Health Authority November 2025 Incident",
+    "company": "Jefferson-Blount-St. Clair Mental Health Authority",
+    "category": "Data breach",
+    "deadline": "2026-12-23",
+    "sourceUrl": "https://www.jbssettlement.com/",
+    "filingUrl": "https://www.jbssettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A settlement for certain U.S. or territorial residents whose personal information was potentially affected in the Jefferson-Blount-St. Clair Mental Health Authority incident around November 25, 2025.",
+    "benefit": "Class members may request qualifying documented-loss payments or a flat cash option and credit monitoring, subject to the published claim terms.",
+    "proof": [
+      "JBS Mental Health Authority incident notice or class-member confirmation",
+      "Records of unreimbursed incident-related expenses if requesting reimbursement",
+      "Administrator-provided identification information"
+    ],
+    "questions": [
+      {
+        "id": "us",
+        "label": "Were you residing in the United States or its territories?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "affected",
+        "label": "Was your personal information potentially affected by the November 2025 JBS Mental Health Authority data incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "notice",
+        "label": "Were you sent a notice letter or otherwise confirmed as within the settlement class?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "warner-music-card-2027",
+    "title": "Warner Music Group 2020 Payment Card Incident",
+    "company": "Warner Music Group",
+    "category": "Privacy",
+    "deadline": "2027-01-22",
+    "sourceUrl": "https://www.wmgdatasettlement.com/faqs/",
+    "filingUrl": "https://www.wmgdatasettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A settlement for U.S. residents who made payment-card purchases on e-commerce websites operated by or for Warner Music Group subsidiaries from April 25 to August 5, 2020.",
+    "benefit": "Eligible class members who submit timely valid claims may receive weighted pro-rata cash payments; estimated amounts of $50 or $100 for certain California residents are not guaranteed.",
+    "proof": [
+      "Proof of payment-card purchase on a covered Warner Music subsidiary e-commerce site",
+      "Purchase date between April 25 and August 5, 2020",
+      "Any data-incident notice received"
+    ],
+    "questions": [
+      {
+        "id": "us",
+        "label": "Were you a natural person residing in the United States?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "purchase",
+        "label": "Did you make a payment-card purchase from a covered Warner Music subsidiary e-commerce website?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "period",
+        "label": "Was that purchase between April 25 and August 5, 2020?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you otherwise excluded under the official notice?",
+        "expected": "no",
+        "required": true
+      }
+    ],
+    "activityStart": "2020-04-25",
+    "activityEnd": "2020-08-05",
+    "receiptMatch": [
+      "warner music"
+    ]
+  },
+  {
+    "id": "woodloch-resort-incident-2027",
+    "title": "Woodloch Resorts May 2024 Data Incident",
+    "company": "Woodloch Pines / The Lodge at Woodloch",
+    "category": "Data breach",
+    "deadline": "2027-01-13",
+    "sourceUrl": "https://woodlochsettlement.com/faq/",
+    "filingUrl": "https://woodlochsettlement.com/form/claim",
+    "reviewedAt": "2026-11-16",
+    "summary": "A settlement involving personal information implicated in a May 2024 cyberattack on Woodloch-related resort and spa companies.",
+    "benefit": "Qualifying class members may request two years of credit monitoring and either supported loss reimbursement or a $60 cash alternative.",
+    "proof": [
+      "Woodloch data-incident notice, LoginID and PIN if provided",
+      "Loss-related bank records, invoices or receipts if claiming expenses",
+      "Administrator-confirmed claim submission information"
+    ],
+    "questions": [
+      {
+        "id": "us",
+        "label": "Were you a living individual residing in the United States?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "affected",
+        "label": "Was your personal information implicated by the May 2024 Woodloch cyberattack?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "class",
+        "label": "Do you meet the official Woodloch class definition?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you excluded as an officer, government entity, court-related person or by an opt-out?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "riverside-casino-incident-2027",
+    "title": "Riverside Resort & Casino July 2024 Data Incident",
+    "company": "Riverside Resort & Casino",
+    "category": "Data breach",
+    "deadline": "2027-01-04",
+    "sourceUrl": "https://riversidedatasettlement.com/faq/",
+    "filingUrl": "https://riversidedatasettlement.com/form/claim",
+    "reviewedAt": "2026-11-16",
+    "summary": "A settlement for U.S. residents sent notice that their private information was compromised by a July 2024 data incident affecting Riverside Resort & Casino.",
+    "benefit": "Possible class benefits include one year of credit monitoring and qualifying cash payment options, subject to official rules.",
+    "proof": [
+      "Riverside incident or settlement notification with LoginID and PIN",
+      "Expenses and loss documentation, if applicable",
+      "Confirmation from the administrator after submitting"
+    ],
+    "questions": [
+      {
+        "id": "us",
+        "label": "Did you reside in the United States?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "notice",
+        "label": "Were you sent notification that information was compromised in Riverside's July 2024 incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "class",
+        "label": "Do you meet the published Riverside settlement class definition?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you an excluded company officer, party lawyer or court-related person?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "merchant-of-tennis-2027",
+    "title": "Merchant of Tennis February 2024 Data Incident",
+    "company": "Merchant of Tennis / U.S. Merchants",
+    "category": "Data breach",
+    "deadline": "2027-01-27",
+    "sourceUrl": "https://www.usmsettlement.com/faq/",
+    "filingUrl": "https://www.usmsettlement.com/form/claim/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A settlement concerning personal information potentially impacted by a February 2024 cyberattack involving the Merchant of Tennis, U.S. Merchants Financial Group and U.S. Optical Merchants.",
+    "benefit": "A settlement fund provides benefits for qualified class members who submit an approved claim; specific cash payment options and amounts depend on the administrator's notice.",
+    "proof": [
+      "Merchant of Tennis or U.S. Merchants incident notice and claimant ID, if received",
+      "Documentation of eligible unreimbursed expenses if requested",
+      "Correct claimant contact information and official confirmation"
+    ],
+    "questions": [
+      {
+        "id": "affected",
+        "label": "Was your private information impacted in the listed February 2024 cyberattack?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "class",
+        "label": "Do you meet the administrator's specific class definition?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Did you opt out, or are you an excluded company officer, judge, staff member or incident perpetrator?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "methodist-home-care-incident-2027",
+    "title": "Methodist Home Care 2024–2025 Data Incidents",
+    "company": "Methodist Home Care",
+    "category": "Data breach",
+    "deadline": "2027-02-02",
+    "sourceUrl": "https://www.methodistdatasettlement.com/",
+    "filingUrl": "https://www.methodistdatasettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed settlement involving personal information potentially accessed in October 2024 and May 2025 incidents affecting Methodist Home Care.",
+    "benefit": "Qualifying members may choose a documented-loss or lost-time benefit, an alternative cash payment of up to $52.50, and credit monitoring under the official notice.",
+    "proof": [
+      "Methodist Home Care security-incident notice, if received",
+      "Supporting documentation for ordinary or extraordinary loss claims",
+      "Time records and administrator identification for claims requiring them"
+    ],
+    "questions": [
+      {
+        "id": "affected",
+        "label": "Was your information potentially involved in one of the October 2024 or May 2025 Methodist Home Care data incidents?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "notice",
+        "label": "Were you sent incident notice or confirmed by the administrator as covered?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you excluded under the official settlement class definition?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "doctors-imaging-incident-2027",
+    "title": "Doctors Imaging Group November 2024 Data Incident",
+    "company": "Doctors Imaging Group",
+    "category": "Data breach",
+    "deadline": "2027-01-26",
+    "sourceUrl": "https://digdatasettlement.com/faq",
+    "filingUrl": "https://digdatasettlement.com/claim/login",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed settlement involving people in the United States whose private information may have been affected by a November 5–11, 2024 incident at Doctors Imaging Group.",
+    "benefit": "Class members submitting a valid claim may request up to $2,500 for documented incident-related losses and two years of medical-data monitoring. Payments require administrator approval.",
+    "proof": [
+      "Court-authorized settlement notice and claimant Unique ID/PIN if provided",
+      "Receipts or statements for documented incident-related losses, if claimed",
+      "Administrator claim confirmation code after submitting"
+    ],
+    "questions": [
+      {
+        "id": "us",
+        "label": "Are you a living individual residing in the United States?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "impacted",
+        "label": "Was your private information potentially impacted in the Doctors Imaging Group incident from November 5–11, 2024?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "class",
+        "label": "Do you meet the administrator's full settlement class definition?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "sirva-september-2023-data-2026",
+    "title": "Sirva Relocation September 2023 Data Incident",
+    "company": "Sirva Relocation",
+    "category": "Data breach",
+    "deadline": "2026-12-29",
+    "sourceUrl": "https://sirvadatasettlement.com/faq",
+    "filingUrl": "https://sirvadatasettlement.com/form/claim",
+    "reviewedAt": "2026-11-16",
+    "summary": "People whose private information may have been compromised in Sirva's September 2023 targeted cyberattack may qualify. Available cash options differ among three subclasses.",
+    "benefit": "Possible benefits include two years of monitoring, eligible ordinary losses up to $500 and extraordinary losses up to $4,000. Some subclasses may request a $50 or $10 alternative payment; Group 3 cannot request alternative cash.",
+    "proof": [
+      "Sirva incident notice with LoginID/PIN and subclass, if available",
+      "Records of unreimbursed incident-related ordinary or extraordinary losses if requesting them",
+      "Claim confirmation and support showing any subclass-specific benefit requested"
+    ],
+    "questions": [
+      {
+        "id": "incident",
+        "label": "Was your private information potentially compromised in Sirva's September 2023 cyberattack?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "subclass",
+        "label": "Have you identified which of the administrator's three affected-information subclasses applies to you?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you excluded as a Sirva officer/director/affiliate, court-related person, attorney or incident perpetrator?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "legacy-professionals-data-2027",
+    "title": "Legacy Professionals April 2024 Data Incident",
+    "company": "Legacy Professionals LLP",
+    "category": "Data breach",
+    "deadline": "2027-01-12",
+    "sourceUrl": "https://lpdataincident.com/faq",
+    "filingUrl": "https://lpdataincident.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed settlement for people whose personally identifying or health information was potentially accessible in the April 2024 incident at Legacy Professionals LLP, including those notified.",
+    "benefit": "Valid class members may receive documented-loss reimbursement up to $5,000, a pro-rata cash benefit estimated at $75 and/or 24 months of identity monitoring, according to settlement conditions.",
+    "proof": [
+      "Legacy Professionals incident or settlement notice, if received",
+      "Documentation of qualifying unreimbursed out-of-pocket losses, if requested",
+      "Personal identification or contact information needed by the administrator"
+    ],
+    "questions": [
+      {
+        "id": "exposure",
+        "label": "Was your personal identifying or health information potentially accessible in Legacy Professionals' April 2024 incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "class",
+        "label": "Have you received a notice or otherwise confirmed that you meet the settlement class definition?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you excluded as a Legacy officer/director, court-related person, government entity or data-incident perpetrator?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "quadrant-wa-job-postings-2026",
+    "title": "Quadrant Technologies Washington Job Posting Claims",
+    "company": "Quadrant Technologies",
+    "category": "Employment",
+    "deadline": "2026-12-14",
+    "sourceUrl": "https://www.epoasettlementqtl.com/faq/",
+    "filingUrl": "https://www.epoasettlementqtl.com/form/claim",
+    "reviewedAt": "2026-11-16",
+    "summary": "Certain people who applied for Quadrant Technologies job openings in Washington between January 1, 2023 and July 26, 2025 may fall within a pay-transparency settlement class.",
+    "benefit": "Valid claims by members identified in the defendant's records may receive an equal share of the settlement fund. The official notice provides estimated benefit amounts, with no guaranteed payout.",
+    "proof": [
+      "Evidence or saved records of the Quadrant Technologies application",
+      "Job posting or relevant application date in Washington",
+      "Administrator notice containing LoginID/PIN, if received"
+    ],
+    "questions": [
+      {
+        "id": "applied",
+        "label": "Did you apply for a job opening in Washington with Quadrant Technologies?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "dates",
+        "label": "Was the application between January 1, 2023 and July 26, 2025?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "posting",
+        "label": "Did the job posting omit a wage/salary range and/or general description of benefits or other compensation?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "notice",
+        "label": "Have you received a class notice or confirmed that you appear in the administrator's identified class?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "case-foods-october-2024-breach-2027",
+    "title": "Case Foods October 2024 Data Breach",
+    "company": "Case Foods",
+    "category": "Data breach",
+    "deadline": "2027-01-17",
+    "sourceUrl": "https://cfisettlement.com/faq/",
+    "filingUrl": "https://cfisettlement.com/form/claim",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed settlement for individuals who were notified that personal information was potentially compromised in Case Foods' October 2024 cyberattack.",
+    "benefit": "Valid class members may request a $45 alternative cash payment instead of up to $2,000 in documented, unreimbursed incident-related expenses. Two years of one-bureau credit monitoring can also be elected with a valid claim.",
+    "proof": [
+      "Case Foods breach or settlement notice and LoginID/PIN, if supplied",
+      "Third-party expense records for any documented-loss claim",
+      "Accurate claimant contact information and official submission confirmation"
+    ],
+    "questions": [
+      {
+        "id": "notified",
+        "label": "Were you notified that your private information was potentially compromised in the October 2024 Case Foods data breach?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "notexcluded",
+        "label": "Have you remained in the class rather than requesting exclusion?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you a Case Foods affiliate/officer/director, government entity, case attorney, judge or incident perpetrator?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "coffee-bean-tea-leaf-2024-breach-2027",
+    "title": "Coffee Bean & Tea Leaf 2024 Data Incident",
+    "company": "International Coffee & Tea (The Coffee Bean & Tea Leaf)",
+    "category": "Data breach",
+    "deadline": "2027-02-10",
+    "sourceUrl": "https://www.internationalcoffeesettlement.com/faq/",
+    "filingUrl": "https://www.internationalcoffeesettlement.com/form/claim",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed settlement for certain U.S. residents whose information may have been affected during the April–August 2024 International Coffee & Tea data-security incident.",
+    "benefit": "Qualifying class members may claim a pro-rata alternative cash amount estimated at $25 or certain documented losses up to $5,000. Certain California class members may claim an additional pro-rata benefit, and one year of monitoring is available under the notice.",
+    "proof": [
+      "International Coffee incident notice, including LoginID and PIN",
+      "Third-party invoices or bank records for incident-related loss reimbursement",
+      "California-residency attestation if pursuing the separate state benefit"
+    ],
+    "questions": [
+      {
+        "id": "us",
+        "label": "Were you an individual residing in the United States included in the affected data-incident population?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "incident",
+        "label": "Was your private information potentially impacted in the April–August 2024 International Coffee data incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "notice",
+        "label": "Did you receive a class notice or confirm class membership with the settlement administrator?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you an excluded International Coffee controlling-affiliate or court-related person, or someone who opted out?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "yuma-regional-medical-2022-breach-2027",
+    "title": "Yuma Regional Medical Center April 2022 Incident",
+    "company": "Yuma Regional Medical Center",
+    "category": "Data breach",
+    "deadline": "2027-02-01",
+    "sourceUrl": "https://www.yumasettlement.com/faqs/",
+    "filingUrl": "https://www.yumasettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed settlement for living individuals sent notice of Yuma Regional Medical Center's April 21–25, 2022 cybersecurity incident.",
+    "benefit": "Eligible claimants may seek documented, unreimbursed data-incident losses up to $4,000 and a separate pro-rata cash share. One year of medical data monitoring is supplied to class members automatically, under the administrator's terms.",
+    "proof": [
+      "Original Yuma Regional Medical Center data-incident notification",
+      "Third-party receipts or statements for documented unreimbursed losses, if claimed",
+      "Administrator claim form identification details and submission confirmation"
+    ],
+    "questions": [
+      {
+        "id": "living",
+        "label": "Are you a living individual identified in the data-incident notice class?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "notice",
+        "label": "Were you sent a notification concerning the April 2022 Yuma Regional Medical Center data incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "notexcluded",
+        "label": "Have you remained in the settlement rather than opting out?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you an excluded Yuma Regional Medical Center affiliate, judge/court-related person or incident perpetrator?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "lowe-engineers-dec2024-data-2027",
+    "title": "Lowe Engineers December 2024 Data Incident",
+    "company": "Lowe Engineers",
+    "category": "Data breach",
+    "deadline": "2027-01-13",
+    "sourceUrl": "https://lowedataincident.com/faq/",
+    "filingUrl": "https://lowedataincident.com/form/claim",
+    "reviewedAt": "2026-11-16",
+    "summary": "Individuals notified by Lowe Engineers that their private information might have been affected by a December 2024 cyberattack may fall within the settlement class.",
+    "benefit": "Valid class members may request a $50 alternative cash payment, documented ordinary losses up to $500, extraordinary identity-theft losses up to $5,000 and/or the applicable monitoring benefit.",
+    "proof": [
+      "Lowe Engineers incident notice, including LoginID and PIN if supplied",
+      "Third-party expense records supporting breach-related claims, if requested",
+      "Official confirmation from the settlement administrator"
+    ],
+    "questions": [
+      {
+        "id": "notice",
+        "label": "Did Lowe Engineers provide you notice that your private information was potentially affected by the December 2024 incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "class",
+        "label": "Do you meet the administrator's class definition?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you an excluded Lowe company officer, court-related person, person who opted out, or data-incident perpetrator?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "ben-e-keith-march2023-data-2026",
+    "title": "Ben E. Keith March 2023 Data Security Incident",
+    "company": "Ben E. Keith",
+    "category": "Data breach",
+    "deadline": "2026-11-26",
+    "sourceUrl": "https://bekdataincidentsettlement.com/",
+    "filingUrl": "https://bekdataincidentsettlement.com/submit-claim",
+    "reviewedAt": "2026-11-16",
+    "summary": "The class comprises U.S. individuals sent a Notice Letter from Ben E. Keith about its March 2023 security incident who have not opted out.",
+    "benefit": "Eligible class members may seek a $35 cash alternative, ordinary losses and up to $90 in lost time within a combined $400 limit, extraordinary documented losses up to $5,000, or three years of monitoring under published limits.",
+    "proof": [
+      "Ben E. Keith settlement Notice ID and Confirmation Code",
+      "Third-party invoices or statements supporting any unreimbursed losses",
+      "Documents and claim confirmation related to the selected settlement benefit"
+    ],
+    "questions": [
+      {
+        "id": "usa",
+        "label": "Were you an individual in the United States?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "letter",
+        "label": "Were you sent a Notice Letter by Ben E. Keith about the March 2023 incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you excluded as a Ben E. Keith officer/director or as a case judge/staff/family member, or did you opt out?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "koppers-cicero-odor-2026",
+    "title": "Koppers Cicero Residential Odor Claims",
+    "company": "Koppers",
+    "category": "Environmental",
+    "deadline": "2026-12-07",
+    "sourceUrl": "https://lsclassaction.com/settlements/koppers-facility/",
+    "filingUrl": "https://lsclassaction.com/settlements/koppers-facility/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A settlement over alleged odorous emissions affecting certain residential property within one mile of the Koppers facility at 3900 S. Laramie Avenue, Cicero, Illinois.",
+    "benefit": "Each qualifying residential address with an approved claim may receive an equal share of a $625,000 settlement fund after approved fees, costs and other payments; no payment amount is guaranteed.",
+    "proof": [
+      "Address, dates and proof of residential ownership, rental or lease",
+      "Government ID and address documentation required on the court-authorized claim form",
+      "Signed claim form; deadline is the December 7, 2026 postmark date"
+    ],
+    "questions": [
+      {
+        "id": "within",
+        "label": "Was your residential property in whole or part within one mile of the Koppers facility in Cicero, Illinois?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "dates",
+        "label": "Did you own, rent or lease the property between August 6, 2019 and September 22, 2026?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "records",
+        "label": "Can you provide the administrator's requested residence and identity documentation?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
   }
 ]
