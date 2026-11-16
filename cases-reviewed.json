@@ -1,0 +1,510 @@
+[
+  {
+    "id": "mclean-breach-2026",
+    "title": "McLean Mortgage Data Breach",
+    "company": "McLean Mortgage",
+    "category": "Data breach",
+    "deadline": "2026-12-10",
+    "sourceUrl": "https://www.mcleandatasettlement.com/faq/",
+    "filingUrl": "https://www.mcleandatasettlement.com/form/claim",
+    "reviewedAt": "2026-11-16",
+    "summary": "People in the United States whose information may have been compromised in McLean's October 2024 data incident may be covered.",
+    "benefit": "Class members may request credit monitoring, documented-loss reimbursement or a $45 alternative cash payment, subject to the administrator's rules.",
+    "proof": [
+      "McLean incident notice with LoginID and PIN, if available",
+      "Documentation of qualifying unreimbursed losses, only if claiming those benefits",
+      "Correct mailing and contact information"
+    ],
+    "questions": [
+      {
+        "id": "usa",
+        "label": "Were you residing in the United States when the incident affected you?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "affected",
+        "label": "Was your personally identifiable information potentially compromised in McLean's October 2024 incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you an excluded McLean official, related party, judge or court staff?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "finastra-breach-2026",
+    "title": "Finastra Data Incident",
+    "company": "Finastra Technology",
+    "category": "Data breach",
+    "deadline": "2026-11-27",
+    "sourceUrl": "https://www.finastradatasettlement.com/faq/",
+    "filingUrl": "https://www.finastradatasettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "The administrator describes a class of U.S. residents sent a notice by Finastra that their private information may have been affected.",
+    "benefit": "Possible cash and identity-protection benefits depend on the administrator's eligibility and claim instructions.",
+    "proof": [
+      "Finastra incident notification letter or email",
+      "Any claimant identification supplied in the notice",
+      "Supporting records if claiming documented expenses"
+    ],
+    "questions": [
+      {
+        "id": "usa",
+        "label": "Were you living in the United States when the incident affected you?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "notice",
+        "label": "Did Finastra notify you that your private information may have been affected?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you an excluded Finastra official, government entity or related court party?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "kia-windows-2026",
+    "title": "Kia Power Window Regulators",
+    "company": "Kia America",
+    "category": "Vehicles",
+    "deadline": "2026-11-23",
+    "sourceUrl": "https://www.kiawindowregulatorsettlement.com/faq",
+    "filingUrl": "https://kiawindowregulatorsettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A settlement involving covered Kia vehicles and alleged power-window regulator defects. Vehicle model, year and required documentation matter.",
+    "benefit": "Potential repair reimbursement or dealer service-card benefits depend on the covered vehicle and claim type.",
+    "proof": [
+      "Vehicle identification number (VIN), model year and ownership or lease records",
+      "Window-regulator repair invoices and payment proof, if seeking reimbursement",
+      "Administrator-approved evidence for the selected benefit"
+    ],
+    "questions": [
+      {
+        "id": "vehicle",
+        "label": "Did you own or lease a vehicle included in the settlement's official covered-vehicle list?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "window",
+        "label": "Did you experience a covered window-regulator repair or are you seeking the alternative eligible owner benefit?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "proof",
+        "label": "Can you identify the VIN and obtain required ownership or repair records?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "squatch-natural-2026",
+    "title": "Dr. Squatch Product Labeling",
+    "company": "Dr. Squatch",
+    "category": "Products",
+    "deadline": "2026-11-27",
+    "sourceUrl": "https://www.personalcareproductssettlement.com/",
+    "filingUrl": "https://www.personalcareproductssettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "Certain Dr. Squatch products marketed as natural and purchased in the United States during the covered purchase window may qualify.",
+    "benefit": "Valid claimants may receive a pro-rata share; actual payment depends on eligible products, claims and settlement terms.",
+    "proof": [
+      "Name and count of covered products purchased",
+      "Purchase dates between November 1, 2018 and August 29, 2026",
+      "Receipts or other records if requested by the official claim form"
+    ],
+    "questions": [
+      {
+        "id": "usa",
+        "label": "Did you purchase the product in the United States?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "product",
+        "label": "Did you buy an item on the administrator's specific covered-product list?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "period",
+        "label": "Was the purchase between November 1, 2018 and August 29, 2026?",
+        "expected": "yes",
+        "required": true
+      }
+    ],
+    "activityStart": "2018-11-01",
+    "activityEnd": "2026-08-29",
+    "receiptMatch": [
+      "dr squatch",
+      "squatch"
+    ]
+  },
+  {
+    "id": "hirevelocity-breach-2026",
+    "title": "HireVelocity Data Incident",
+    "company": "Hire Velocity",
+    "category": "Data breach",
+    "deadline": "2026-11-30",
+    "sourceUrl": "https://www.hirevelocitysettlement.com/faq",
+    "filingUrl": "https://www.hirevelocitysettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "U.S. residents who were sent written notice that their private information might have been compromised in the February 2025 incident may be covered.",
+    "benefit": "Available cash and monitoring benefits depend on the administrator's requirements.",
+    "proof": [
+      "Written HireVelocity data-incident notice",
+      "Claim ID or notice information, if provided",
+      "Proof for documented expense claims if applicable"
+    ],
+    "questions": [
+      {
+        "id": "usa",
+        "label": "Did you reside in the United States?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "notice",
+        "label": "Did HireVelocity send you written notice about its February 2025 data incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you excluded under the administrator's class definition?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "equifax-fcra-2026",
+    "title": "Equifax Credit Reporting Coding Error",
+    "company": "Equifax",
+    "category": "Credit & finance",
+    "deadline": "2026-12-28",
+    "sourceUrl": "https://www.equifaxfaircreditreportingsettlement.com/important-dates-and-deadlines.aspx",
+    "filingUrl": "https://www.equifaxfaircreditreportingsettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A specific March–April 2022 Equifax coding issue may have affected information reported about some consumers to third parties. Ordinary Equifax users do not automatically qualify.",
+    "benefit": "Potential pro-rata settlement payment to valid class members who file a timely claim; the administrator determines eligibility.",
+    "proof": [
+      "Official Equifax settlement notice, if received",
+      "Claim ID/PIN or alternative administrator verification",
+      "Information needed to identify the affected credit-report event"
+    ],
+    "questions": [
+      {
+        "id": "report",
+        "label": "Did Equifax report information about you to a third party between March 17 and April 8, 2022?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "coding",
+        "label": "Was that report affected by the specific coding issue described by the settlement administrator?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "notice",
+        "label": "Have you received a class notice or confirmed your information with the settlement administrator?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "kroger-pharmacy-2026",
+    "title": "Kroger Insured Prescription Pricing",
+    "company": "Kroger",
+    "category": "Credit & finance",
+    "deadline": "2026-12-21",
+    "sourceUrl": "https://www.krogersavingsclubsettlement.com/",
+    "filingUrl": "https://www.krogersavingsclubsettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A settlement over insured prescription purchases at Kroger-family pharmacies during the official class period.",
+    "benefit": "Potential share of the settlement fund; certain larger claims require supporting records.",
+    "proof": [
+      "Prescription purchases made with insurance",
+      "Pharmacy purchase or insurance records",
+      "Supporting documentation if the claim totals $8,000 or more"
+    ],
+    "questions": [
+      {
+        "id": "kroger",
+        "label": "Did you pay for prescriptions at a Kroger-owned pharmacy?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "insurance",
+        "label": "Did you pay using prescription insurance?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "period",
+        "label": "Were qualifying purchases between December 9, 2018 and August 23, 2026?",
+        "expected": "yes",
+        "required": true
+      }
+    ],
+    "activityStart": "2018-12-09",
+    "activityEnd": "2026-08-23",
+    "receiptMatch": [
+      "kroger"
+    ]
+  },
+  {
+    "id": "apple-siri-2026",
+    "title": "Apple Intelligence Siri Advertising",
+    "company": "Apple",
+    "category": "Products",
+    "deadline": "2026-12-21",
+    "sourceUrl": "https://www.smartphoneaisettlement.com/frequently-asked-questions/",
+    "filingUrl": "https://www.smartphoneaisettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "Certain U.S. purchases of eligible iPhone models in 2024–2025 are covered by allegations about advertised Siri Apple Intelligence features.",
+    "benefit": "Potential settlement payment per qualifying device after validation; no amount is guaranteed.",
+    "proof": [
+      "Proof of eligible iPhone model and purchase date",
+      "Information sufficient to confirm purchase or ownership",
+      "Statement addressing the advertised Siri features and expectations"
+    ],
+    "questions": [
+      {
+        "id": "usa",
+        "label": "Was your eligible iPhone purchased in the United States?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "device",
+        "label": "Was it an eligible iPhone model on the administrator's list?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "period",
+        "label": "Was it purchased between June 10, 2024 and March 29, 2025?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "features",
+        "label": "At purchase, did you expect advertised Siri Apple Intelligence features that you did not receive?",
+        "expected": "yes",
+        "required": true
+      }
+    ],
+    "activityStart": "2024-06-10",
+    "activityEnd": "2025-03-29",
+    "receiptMatch": [
+      "apple"
+    ]
+  },
+  {
+    "id": "kelly-benefits-breach-2026",
+    "title": "Kelly Benefits Data Breach",
+    "company": "Kelly Benefits",
+    "category": "Data breach",
+    "deadline": "2026-12-28",
+    "sourceUrl": "https://www.kellybenefitssettlement.com/faq",
+    "filingUrl": "https://www.kellybenefitssettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "People living in the U.S. whose private information was compromised in the December 12–17, 2024 Kelly Benefits incident may be included.",
+    "benefit": "Valid claimants may seek pro-rata payments, documented losses, monitoring or certain California benefits, as applicable.",
+    "proof": [
+      "Kelly Benefits incident notice, if received",
+      "Documents showing data-breach-related loss, if claimed",
+      "California address on December 12, 2024, only for the separate California benefit"
+    ],
+    "questions": [
+      {
+        "id": "usa",
+        "label": "Did you reside in the United States?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "affected",
+        "label": "Was your private information compromised in the Kelly Benefits incident of December 12–17, 2024?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you excluded under the official settlement class definition?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "goodrx-privacy-2026",
+    "title": "GoodRx Data Disclosure",
+    "company": "GoodRx",
+    "category": "Privacy",
+    "deadline": "2026-12-29",
+    "sourceUrl": "https://www.goodrxprivacysettlement.com/",
+    "filingUrl": "https://www.goodrxprivacysettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "U.S. individuals who used a GoodRx website, app or service before April 20, 2024 may be covered, subject to exclusions.",
+    "benefit": "Possible pro-rata cash payment after a valid claim; the amount is not known in advance.",
+    "proof": [
+      "Information identifying the GoodRx service used",
+      "Approximate usage date before April 20, 2024",
+      "Any notice or records requested by the administrator"
+    ],
+    "questions": [
+      {
+        "id": "usa",
+        "label": "Were you a U.S. individual using the service?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "used",
+        "label": "Did you use a GoodRx website, mobile app or service?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "period",
+        "label": "Was that usage before April 20, 2024?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "seatgeek-nevada-2026",
+    "title": "SeatGeek Nevada Ticket Fees",
+    "company": "SeatGeek",
+    "category": "Tickets",
+    "deadline": "2027-01-05",
+    "sourceUrl": "https://www.seatgeeknevadaclassaction.com/faq/",
+    "filingUrl": "https://seatgeeknevadaclassaction.com/form/claim",
+    "reviewedAt": "2026-11-16",
+    "summary": "Electronic tickets purchased for events in Nevada through SeatGeek between November 7, 2020 and May 12, 2025, with covered fees.",
+    "benefit": "Potential pro-rata distribution based on fees retained for eligible purchases.",
+    "proof": [
+      "SeatGeek ticket order for a Nevada event",
+      "Purchase date and fees charged",
+      "Notice LoginID/PIN if supplied by the administrator"
+    ],
+    "questions": [
+      {
+        "id": "nevada",
+        "label": "Were the tickets for an event in Nevada?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "purchased",
+        "label": "Did you buy them via SeatGeek's website or app and pay fees?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "period",
+        "label": "Was the purchase between November 7, 2020 and May 12, 2025?",
+        "expected": "yes",
+        "required": true
+      }
+    ],
+    "activityStart": "2020-11-07",
+    "activityEnd": "2025-05-12",
+    "receiptMatch": [
+      "seatgeek"
+    ]
+  },
+  {
+    "id": "realpage-rent-2026",
+    "title": "RealPage Rental Software Antitrust",
+    "company": "RealPage",
+    "category": "Housing",
+    "deadline": "2027-01-29",
+    "sourceUrl": "https://www.realpagerentalsettlement.com/",
+    "filingUrl": "https://www.realpagerentalsettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "Certain U.S. multifamily renters who paid rent at properties using covered RealPage revenue-management software during the class period may qualify.",
+    "benefit": "Potential share of a settlement fund. The property and lease must meet the class definition; not all renters qualify.",
+    "proof": [
+      "Rental property name and address",
+      "Lease and rental payment records within the class period",
+      "Whether the property used one of the covered RealPage systems, if known"
+    ],
+    "questions": [
+      {
+        "id": "usa",
+        "label": "Was the rented multifamily property in the United States or its territories?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "period",
+        "label": "Did you pay rent there between October 18, 2018 and November 21, 2025?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "software",
+        "label": "Did the property use a covered RealPage revenue-management solution during your lease?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "nonbank-atm-2026",
+    "title": "Non-Bank ATM Surcharge Fees",
+    "company": "Visa / Mastercard",
+    "category": "Credit & finance",
+    "deadline": "2027-02-10",
+    "sourceUrl": "https://www.nonbankatmsurchargesettlement.com/",
+    "filingUrl": "https://www.nonbankatmsurchargesettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "Certain non-bank ATM cash withdrawals between October 24, 2007 and August 14, 2026 that included unreimbursed surcharges may be covered.",
+    "benefit": "Potential settlement payment to members of the covered classes; eligible surcharge amounts and actual payment vary.",
+    "proof": [
+      "Financial account or ATM transaction records, if available",
+      "Unreimbursed ATM surcharge amounts",
+      "Locations and dates of the covered ATM withdrawals"
+    ],
+    "questions": [
+      {
+        "id": "atm",
+        "label": "Did you withdraw cash at a non-bank ATM covered by the settlement?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "period",
+        "label": "Were the withdrawals between October 24, 2007 and August 14, 2026?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "fee",
+        "label": "Were the ATM surcharges not fully reimbursed by your bank?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
+  }
+]
