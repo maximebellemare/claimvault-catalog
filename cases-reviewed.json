@@ -506,5 +506,515 @@
         "required": true
       }
     ]
+  },
+  {
+    "id": "capital-one-arena-venue-2026",
+    "title": "Capital One Arena Venue Fees",
+    "company": "Aramark",
+    "category": "Tickets",
+    "deadline": "2026-12-04",
+    "sourceUrl": "https://www.venuefeesettlement.com/",
+    "filingUrl": "https://www.venuefeesettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed settlement for U.S. customers who paid an Aramark venue fee at Capital One Arena during the listed purchase period.",
+    "benefit": "Eligible claimants who submit a valid claim may receive a share of a settlement fund; amounts depend on validated claims.",
+    "proof": [
+      "Record of a Capital One Arena Aramark purchase, if available",
+      "Purchase date and knowledge of whether a 3% venue fee was charged",
+      "Accurate contact details for the official claim form"
+    ],
+    "questions": [
+      {
+        "id": "usa",
+        "label": "Were you in the United States when you purchased at Capital One Arena?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "aramark",
+        "label": "Did you buy food, beverages or other concessions from Aramark at Capital One Arena?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "fee",
+        "label": "Were you charged the 3% venue fee?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "period",
+        "label": "Was the purchase between October 1, 2024 and December 31, 2025?",
+        "expected": "yes",
+        "required": true
+      }
+    ],
+    "activityStart": "2024-10-01",
+    "activityEnd": "2025-12-31",
+    "receiptMatch": [
+      "aramark",
+      "capital one arena"
+    ]
+  },
+  {
+    "id": "arcare-data-2026",
+    "title": "Arcare Data Incident",
+    "company": "Arcare",
+    "category": "Data breach",
+    "deadline": "2027-01-07",
+    "sourceUrl": "https://www.arcaredatasettlement.com/frequently-asked-questions.aspx",
+    "filingUrl": "https://www.arcaredatasettlement.com/frequently-asked-questions.aspx",
+    "reviewedAt": "2026-11-16",
+    "summary": "For U.S. residents sent notice that private information may have been affected in Arcare's January–February 2022 incident.",
+    "benefit": "Valid claims may qualify for documented losses up to the published limit, alternative cash or medical-data monitoring, subject to administrator review.",
+    "proof": [
+      "Arcare notice confirming potentially affected private information",
+      "Notice ID or any contact details required to identify a class member",
+      "Supporting unreimbursed-loss documents if claiming expenses"
+    ],
+    "questions": [
+      {
+        "id": "usa",
+        "label": "Were you residing in the United States?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "notice",
+        "label": "Did Arcare send you a notice that your information may have been impacted?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you among the excluded defendant officers, government entities or court-related persons?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "davita-data-2026",
+    "title": "DaVita April 2025 Ransomware Incident",
+    "company": "DaVita",
+    "category": "Data breach",
+    "deadline": "2027-01-19",
+    "sourceUrl": "https://dvacyberattacksettlement.com/",
+    "filingUrl": "https://dvacyberattacksettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed data-incident settlement involving personal information potentially accessed during the April 2025 DaVita cyberattack.",
+    "benefit": "Claim options may include cash, monitoring or reimbursement for documented expenses, subject to valid class membership and court approval.",
+    "proof": [
+      "DaVita postcard or emailed class notice with Unique ID and PIN, if available",
+      "Proof of unreimbursed incident-related losses if requested",
+      "Claim confirmation code from the official administrator after filing"
+    ],
+    "questions": [
+      {
+        "id": "incident",
+        "label": "Was your private information potentially affected in DaVita's April 2025 attack?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "notice",
+        "label": "Did you receive a notice or confirm class membership with the administrator?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "eligible",
+        "label": "Do you satisfy the administrator's U.S. settlement class definition?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "wagastro-data-2026",
+    "title": "Washington Gastroenterology Data Incident",
+    "company": "Washington Gastroenterology",
+    "category": "Data breach",
+    "deadline": "2027-01-10",
+    "sourceUrl": "https://wagastrodataincidentsettlement.com/",
+    "filingUrl": "https://wagastrodataincidentsettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed settlement for U.S. residents whose private information was compromised in a Washington Gastroenterology data incident around October 23, 2024.",
+    "benefit": "Valid claims may seek documented-loss reimbursement, alternative cash and medical-data monitoring under the administrator's rules.",
+    "proof": [
+      "Incident notice or information identifying your affected record",
+      "Documents for qualified unreimbursed losses if claimed",
+      "Administrator claim reference after submitting"
+    ],
+    "questions": [
+      {
+        "id": "usa",
+        "label": "Were you a living U.S. resident covered by the settlement?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "incident",
+        "label": "Was your private information compromised in the October 2024 Washington Gastroenterology incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you excluded under the official court notice?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "boa-efta-2026",
+    "title": "Bank of America Unauthorized Transfer Disputes",
+    "company": "Bank of America",
+    "category": "Credit & finance",
+    "deadline": "2026-12-11",
+    "sourceUrl": "https://www.eftabankingsettlement.com/",
+    "filingUrl": "https://www.eftabankingsettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed EFTA settlement involving Bank of America debit-card or ATM unauthorized-transfer claims allegedly improperly denied or insufficiently explained.",
+    "benefit": "Qualifying claimants may seek a pro-rata payment or account credit for statutory claims, subject to approved settlement terms.",
+    "proof": [
+      "Bank of America debit-card or ATM dispute documentation",
+      "Denial or explanation letter if available",
+      "Date and other details sufficient for the administrator to identify the disputed transfer"
+    ],
+    "questions": [
+      {
+        "id": "account",
+        "label": "Were you a Bank of America accountholder with a debit-card or ATM transaction dispute?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "unauthorized",
+        "label": "Did you report that an electronic fund transfer was unauthorized?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "denial",
+        "label": "Did Bank of America deny your dispute during the official covered time period?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "knotts-processing-2026",
+    "title": "Knott's Berry Farm / California's Great America Fees",
+    "company": "Six Flags / Cedar Fair",
+    "category": "Tickets",
+    "deadline": "2026-12-22",
+    "sourceUrl": "https://www.knottsgreatamericasettlement.com/",
+    "filingUrl": "https://www.knottsgreatamericasettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "Certain California online purchases of non-season tickets included processing fees. Some notified class members have an adjusted deadline after a second notice.",
+    "benefit": "A valid cash election may provide $8; some members receive an $8 Six Flags credit without filing. Check the administrator's applicable deadline.",
+    "proof": [
+      "Non-season ticket order for a covered park",
+      "Purchaser's California residency at the time of the transaction",
+      "Order date and processing fee details, if available"
+    ],
+    "questions": [
+      {
+        "id": "ca",
+        "label": "Were you a California resident at the time of purchase?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "park",
+        "label": "Did you purchase a non-season ticket online for Knott's Berry Farm, Knott's Soak City or California's Great America?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "fee",
+        "label": "Was a processing fee included?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "period",
+        "label": "Was it between June 28, 2020 and July 1, 2024?",
+        "expected": "yes",
+        "required": true
+      }
+    ],
+    "activityStart": "2020-06-28",
+    "activityEnd": "2024-07-01",
+    "receiptMatch": [
+      "knotts berry farm",
+      "cedar fair"
+    ]
+  },
+  {
+    "id": "amazon-returns-2026",
+    "title": "Amazon Return Policy Litigation",
+    "company": "Amazon",
+    "category": "Products",
+    "deadline": "2026-12-01",
+    "sourceUrl": "https://www.returnsettlement.com/",
+    "filingUrl": "https://www.returnsettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed U.S. settlement concerning missing, delayed or incorrect refunds, or improper recharges, involving returned physical Amazon purchases.",
+    "benefit": "Subclass A payments may be automatic. Other eligible members must file a valid claim; details depend on the administrator's subclass rules.",
+    "proof": [
+      "Amazon product order and return records",
+      "Refund requests, account charges or incorrect refund details",
+      "Notice indicating settlement subclass, if received"
+    ],
+    "questions": [
+      {
+        "id": "us",
+        "label": "Did Amazon's records show that your physical product was sold through Amazon.com and received in the U.S.?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "period",
+        "label": "Was the product purchased between September 5, 2017 and February 12, 2026?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "returned",
+        "label": "Did you initiate a return or request a refund?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "problem",
+        "label": "Was the refund missing, late, incorrect or followed by an improper new charge?",
+        "expected": "yes",
+        "required": true
+      }
+    ],
+    "activityStart": "2017-09-05",
+    "activityEnd": "2026-02-12",
+    "receiptMatch": [
+      "amazon",
+      "amazon com"
+    ]
+  },
+  {
+    "id": "nc-adapthealth-billing-2026",
+    "title": "North Carolina AdaptHealth Billing Claims",
+    "company": "AdaptHealth",
+    "category": "Credit & finance",
+    "deadline": "2026-12-08",
+    "sourceUrl": "https://www.ncadapthealthsettlement.com/",
+    "filingUrl": "https://www.ncadapthealthsettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A North Carolina settlement for a specific group of AdaptHealth equipment purchasers who were billed for items not possessed during the covered service dates. Separate collection-letter class payments may be automatic.",
+    "benefit": "Administrator-identified Class A members who file a valid claim may receive $3,500. Distinct Class C benefits have different filing rules.",
+    "proof": [
+      "Class A notice or other information from AdaptHealth",
+      "Equipment return, rejection or non-delivery documentation",
+      "Bills issued during qualifying service dates and North Carolina residence evidence"
+    ],
+    "questions": [
+      {
+        "id": "nc",
+        "label": "Did you live in North Carolina when at least one disputed bill was sent?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "equipment",
+        "label": "Did you purchase, lease or rent medical equipment from AdaptHealth or its listed affiliates?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "notpossession",
+        "label": "Were you billed for equipment you returned, rejected or did not receive?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "dates",
+        "label": "Were the dates of service between April 3, 2019 and April 3, 2025?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "classa",
+        "label": "Have you been identified as a possible member of the administrator's Class A?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "ford-transit-trail-2027",
+    "title": "Ford Transit Trail Wheel-Well Claims",
+    "company": "Ford Motor Company",
+    "category": "Vehicles",
+    "deadline": "2027-01-15",
+    "sourceUrl": "https://www.fordtransittrailsettlement.com/",
+    "filingUrl": "https://www.fordtransittrailsettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed settlement for original owners or lessees of certain new 2023–2024 Ford Transit Trail vehicles purchased or leased before June 1, 2024.",
+    "benefit": "A qualifying original owner or lessee who submits required documents may receive a $6,000 payment per class vehicle.",
+    "proof": [
+      "Vehicle VIN and proof of new purchase or lease before June 1, 2024",
+      "Proof that it is a covered 2023 or 2024 Ford Transit Trail",
+      "IRS W-9 or required equivalent tax documentation"
+    ],
+    "questions": [
+      {
+        "id": "model",
+        "label": "Was the vehicle a new Model Year 2023 or 2024 Ford Transit Trail?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "owner",
+        "label": "Were you the original owner or lessee for personal, family or household use?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "period",
+        "label": "Did you buy or lease it as new before June 1, 2024?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "records",
+        "label": "Can you provide the required VIN, ownership and tax documents?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "columbia-data-2027",
+    "title": "Columbia University May 2025 Data Breach",
+    "company": "Columbia University",
+    "category": "Data breach",
+    "deadline": "2027-01-21",
+    "sourceUrl": "https://www.columbiauniversitydatasettlement.com/",
+    "filingUrl": "https://www.columbiauniversitydatasettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A settlement for certain U.S. residents whose private information was affected in Columbia University's May 2025 cyberattack and who were sent notice.",
+    "benefit": "Valid claimants may request documented loss reimbursement, an alternative cash payment, or monitoring benefits under the published terms.",
+    "proof": [
+      "Columbia University breach notice, including any claim identifier",
+      "Proof of losses caused by the incident, if requesting reimbursement",
+      "Any required identity-verification details for the administrator"
+    ],
+    "questions": [
+      {
+        "id": "us",
+        "label": "Were you residing in the United States?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "affected",
+        "label": "Was your private information compromised in Columbia University's May 2025 cyberattack?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "notice",
+        "label": "Were you sent a notice of the cyberattack?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "deere-repair-2026",
+    "title": "John Deere Agricultural Equipment Repairs",
+    "company": "John Deere",
+    "category": "Vehicles",
+    "deadline": "2026-12-31",
+    "sourceUrl": "https://www.deererepairsettlement.com/",
+    "filingUrl": "https://www.deererepairsettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed settlement for people or entities that purchased repair services for Deere large agricultural equipment from Deere or authorized dealers in the U.S. during the covered period.",
+    "benefit": "Valid claimants may receive monetary relief; certain non-monetary repair-related provisions are separate from the claim filing requirement.",
+    "proof": [
+      "Repair invoices from John Deere or an authorized dealer",
+      "Equipment details and dates of repair payments",
+      "Records confirming services were in the United States"
+    ],
+    "questions": [
+      {
+        "id": "us",
+        "label": "Were the repairs purchased in the United States?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "equipment",
+        "label": "Were they repair services for Deere large agricultural equipment?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "dealer",
+        "label": "Were the repairs bought from Deere or its authorized dealer?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "dates",
+        "label": "Were the services purchased between January 10, 2018 and May 18, 2026?",
+        "expected": "yes",
+        "required": true
+      }
+    ],
+    "activityStart": "2018-01-10",
+    "activityEnd": "2026-05-18",
+    "receiptMatch": [
+      "john deere",
+      "deere dealer"
+    ]
+  },
+  {
+    "id": "toyota-airbag-acu-2028",
+    "title": "Toyota Airbag Control Unit Claims",
+    "company": "Toyota",
+    "category": "Vehicles",
+    "deadline": "2028-12-11",
+    "sourceUrl": "https://www.airbagcontrolunitsettlement.com/",
+    "filingUrl": "https://www.airbagcontrolunitsettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "An approved settlement for certain Toyota vehicles with ZF-TRW airbag control units. The administrator's November 2026 site lists December 11, 2028 for residual-payment registration and specified out-of-pocket claims.",
+    "benefit": "Class members may seek eligible recall-related out-of-pocket expenses or register for a possible residual payment. A covered vehicle is verified by VIN; payment is not guaranteed.",
+    "proof": [
+      "Vehicle VIN and ownership/lease history",
+      "Evidence of a class-listed Toyota model and eligible year",
+      "Receipts/invoices for reimbursable recall costs, if claiming them"
+    ],
+    "questions": [
+      {
+        "id": "toyota",
+        "label": "Did you own or lease one of the Toyota models and years listed by the administrator?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "vin",
+        "label": "Has the administrator's VIN lookup confirmed that your vehicle is included?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "claim",
+        "label": "Are you seeking eligible recall-related costs or registration for possible residual payment?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
   }
 ]
