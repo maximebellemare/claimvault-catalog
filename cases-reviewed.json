@@ -225,6 +225,9 @@
         "expected": "yes",
         "required": true
       }
+    ],
+    "noticeAliases": [
+      "Equifax FCRA Coding Error Settlement"
     ]
   },
   {
@@ -315,6 +318,9 @@
     "activityEnd": "2025-03-29",
     "receiptMatch": [
       "apple"
+    ],
+    "noticeAliases": [
+      "Apple Intelligence Siri Settlement"
     ]
   },
   {
@@ -389,6 +395,9 @@
         "expected": "yes",
         "required": true
       }
+    ],
+    "noticeAliases": [
+      "GoodRx Privacy Settlement"
     ]
   },
   {
@@ -2784,6 +2793,9 @@
     "activityEnd": "2026-09-02",
     "receiptMatch": [
       "natera"
+    ],
+    "noticeAliases": [
+      "Natera Genetic Screening Test Settlement"
     ]
   },
   {
@@ -2870,6 +2882,356 @@
         "expected": "no",
         "required": true
       }
+    ]
+  },
+  {
+    "id": "expressvpn-ca-autorenewal-2027",
+    "title": "ExpressVPN California Subscription Auto-Renewals",
+    "company": "ExpressVPN",
+    "category": "Products",
+    "deadline": "2027-01-12",
+    "sourceUrl": "https://www.marinvpnsettlement.com/frequently-asked-questions",
+    "filingUrl": "https://www.marinvpnsettlement.com/claim",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed settlement involving automatically renewing ExpressVPN subscriptions with at least one paid auto-renewal charge while the subscriber resided in California between September 15, 2022 and June 13, 2025.",
+    "benefit": "Eligible class members filing a valid claim may receive cash up to twice their subscription charges during the class period, with actual payments dependent on the settlement. Former subscribers may separately receive a credit voucher without filing.",
+    "proof": [
+      "ExpressVPN subscription records showing automatic renewal",
+      "At least one auto-renewal payment dated September 15, 2022–June 13, 2025",
+      "California residency during that paid auto-renewal",
+      "Administrator Notice ID from email or postcard, if received"
+    ],
+    "questions": [
+      {
+        "id": "ca",
+        "label": "Were you living in California when your ExpressVPN subscription automatically renewed?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "auto",
+        "label": "Did you purchase an automatically renewing ExpressVPN subscription?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "charge",
+        "label": "Did you pay at least one auto-renewal charge between September 15, 2022 and June 13, 2025?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "member",
+        "label": "Do you meet the other class conditions described by the court-appointed administrator?",
+        "expected": "yes",
+        "required": true
+      }
+    ],
+    "activityStart": "2022-09-15",
+    "activityEnd": "2025-06-13",
+    "receiptMatch": [
+      "expressvpn"
+    ],
+    "noticeAliases": [
+      "ExpressVPN Auto Renewal Settlement"
+    ]
+  },
+  {
+    "id": "raging-waters-online-ticket-fees-2026",
+    "title": "Raging Waters Online Ticket Processing Fees",
+    "company": "Raging Waters",
+    "category": "Tickets",
+    "deadline": "2026-11-24",
+    "sourceUrl": "https://www.ragingwaterssettlement.com/",
+    "filingUrl": "https://www.ragingwaterssettlement.com/submit-claim",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed settlement for U.S. residents who purchased admission tickets from ragingwaters.com between June 1, 2020 and June 22, 2026, and paid a processing fee charged during checkout.",
+    "benefit": "A valid claim may receive a share of the net settlement fund, calculated in part by the processing fees paid. One claim form can cover multiple qualifying purchases; amounts depend on valid claims and court approval.",
+    "proof": [
+      "Order email for tickets bought at ragingwaters.com",
+      "Purchase dates between June 1, 2020 and June 22, 2026",
+      "The processing-fee amount, if shown on checkout confirmation",
+      "Notice ID if issued, or other administrator-required order details"
+    ],
+    "questions": [
+      {
+        "id": "us",
+        "label": "Were you a resident of the United States when you purchased the tickets?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "website",
+        "label": "Did you buy admission tickets through ragingwaters.com?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "period",
+        "label": "Was your purchase between June 1, 2020 and June 22, 2026?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "fees",
+        "label": "Did you pay a processing fee on the qualifying order?",
+        "expected": "yes",
+        "required": true
+      }
+    ],
+    "activityStart": "2020-06-01",
+    "activityEnd": "2026-06-22",
+    "receiptMatch": [
+      "raging waters"
+    ],
+    "noticeAliases": [
+      "Raging Waters Settlement"
+    ]
+  },
+  {
+    "id": "venetian-website-california-privacy-2026",
+    "title": "Venetian Las Vegas California Website Privacy",
+    "company": "The Venetian Las Vegas",
+    "category": "Privacy",
+    "deadline": "2026-11-24",
+    "sourceUrl": "https://www.venetianlasvegassettlement.com/",
+    "filingUrl": "https://www.venetianlasvegassettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed privacy settlement for California residents who, while physically in California, visited venetianlasvegas.com and/or booked a Venetian hotel stay on that site from September 18, 2024 to March 16, 2026.",
+    "benefit": "If approved, valid claimants may receive a pro-rata share of a browsing or booking fund. The administrator estimated about $3.60 for browsing and $71.39 for bookings, but actual payments can differ.",
+    "proof": [
+      "Dates and location of visits to venetianlasvegas.com while in California",
+      "Hotel reservation confirmation from the Venetian website if claiming the booking class",
+      "Unique ID and PIN from settlement notice, if provided"
+    ],
+    "questions": [
+      {
+        "id": "resident",
+        "label": "Were you a California resident at the time?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "in-ca",
+        "label": "Were you physically in California during the relevant website visits or bookings?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "period",
+        "label": "Was the visit or booking between September 18, 2024 and March 16, 2026?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "action",
+        "label": "Did you access the Venetian Las Vegas website or reserve a hotel stay through that website?",
+        "expected": "yes",
+        "required": true
+      }
+    ],
+    "activityStart": "2024-09-18",
+    "activityEnd": "2026-03-16",
+    "receiptMatch": [
+      "venetian las vegas"
+    ]
+  },
+  {
+    "id": "hyundai-kia-zftrw-airbag-2027",
+    "title": "Hyundai / Kia ZF-TRW Airbag Control Units",
+    "company": "Hyundai & Kia",
+    "category": "Vehicles",
+    "deadline": "2027-04-08",
+    "sourceUrl": "https://www.acusettlement.com/hyundaikia",
+    "filingUrl": "https://www.acusettlement.com/hyundaikia/claim",
+    "reviewedAt": "2026-11-16",
+    "summary": "A vehicle settlement for current or former owners and lessees as of April 14, 2025 of specified Hyundai or Kia vehicles originally sold or leased in the United States, including Sonata, Kona, Veloster, Forte, Optima and Sedona models. Eligibility is determined by VIN.",
+    "benefit": "Covered recalled vehicles may qualify for reasonable documented recall-related expenses; class members submitting a claim may also qualify for residual payments up to $350 for recalled or $150 for unrecalled vehicles, subject to funds available.",
+    "proof": [
+      "The 17-digit VIN and settlement administrator VIN-lookup result",
+      "Proof of eligible vehicle ownership or lease on or before April 14, 2025",
+      "Notice Unique ID, if sent",
+      "Receipts or invoices for eligible recall-related expenses if requesting reimbursement"
+    ],
+    "questions": [
+      {
+        "id": "vin",
+        "label": "Does the settlement administrator's official VIN lookup identify your Hyundai or Kia as a covered class vehicle?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "ownership",
+        "label": "Did you own or lease the covered vehicle on or before April 14, 2025 as required by the class definition?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "original",
+        "label": "Was the covered vehicle originally sold or leased in the United States or its territories?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Have you opted out or otherwise fallen into a settlement exclusion?",
+        "expected": "no",
+        "required": true
+      }
+    ],
+    "noticeAliases": [
+      "Hyundai Kia Airbag Control Unit Settlement"
+    ]
+  },
+  {
+    "id": "tenet-healthcare-pixel-privacy-2027",
+    "title": "Tenet Healthcare Online Patient Privacy",
+    "company": "Tenet Healthcare",
+    "category": "Privacy",
+    "deadline": "2027-03-15",
+    "sourceUrl": "https://www.tenetpixelsettlement.com/faq",
+    "filingUrl": "https://www.tenetpixelsettlement.com/form/claim",
+    "reviewedAt": "2026-11-16",
+    "summary": "A court-authorized proposed settlement concerning third-party tracking technologies on Tenet Healthcare websites, patient portals and other online services. The settlement class is determined using Tenet's records for use between January 1, 2017 and September 18, 2023.",
+    "benefit": "Class members submitting a valid and timely claim may receive a one-time $16 cash payment. Class members may also be eligible for two years of CyEx Privacy Shield Pro enrollment according to administrator rules.",
+    "proof": [
+      "Tenet Healthcare settlement notice and LoginID/PIN, if issued",
+      "Details of your Tenet patient portal, online check-in or website activity during the period",
+      "Claim confirmation from the administrator after filing"
+    ],
+    "questions": [
+      {
+        "id": "period",
+        "label": "Did you use a Tenet Healthcare website, patient portal, HealtheLife app or related online tool from January 1, 2017 to September 18, 2023?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "identified",
+        "label": "Does Tenet Healthcare's settlement administrator identify you as a class member in its records?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you among the court-related persons, company officers, attorneys or valid opt-outs excluded from the class?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "marbrisa-hilton-hotel-fees-2027",
+    "title": "Hilton MarBrisa Hotel Booking Hidden Fees",
+    "company": "Hilton Grand Vacations / MarBrisa",
+    "category": "Travel",
+    "deadline": "2027-01-21",
+    "sourceUrl": "https://marbrisasettlement.com/",
+    "filingUrl": "https://marbrisasettlement.com/payment-election",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed hotel-fee settlement for people who bought rooms through marbrisacarlsbad.com between June 3, 2021 and June 17, 2025 and were charged undisclosed fees. The notice addresses California residents, while the posted class definition uses broader 'all persons' wording; confirm individual residency requirements with the administrator.",
+    "benefit": "Eligible class members must submit a payment election using the Notice ID and PIN by January 21, 2027. This is a payment election, not a separate claim form; no payment is guaranteed until the court approves the settlement.",
+    "proof": [
+      "Reservation confirmation for a room purchased at marbrisacarlsbad.com",
+      "Dates of stay/booking and receipt showing parking or other undisclosed fees",
+      "Administrator Notice ID and PIN, plus any residence information it requests"
+    ],
+    "questions": [
+      {
+        "id": "notice",
+        "label": "Did you receive a settlement notice or confirm your booking is on the administrator's class list?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "room",
+        "label": "Did you purchase a hotel room through marbrisacarlsbad.com?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "period",
+        "label": "Was the purchase between June 3, 2021 and June 17, 2025?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "fee",
+        "label": "Were you charged a parking or other fee that was not shown in the advertised room price?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you a defendant employee, officer, agent or another excluded court-related person?",
+        "expected": "no",
+        "required": true
+      }
+    ],
+    "activityStart": "2021-06-03",
+    "activityEnd": "2025-06-17",
+    "receiptMatch": [
+      "marbrisa",
+      "marbrisa carlsbad"
+    ],
+    "actionType": "payment-election"
+  },
+  {
+    "id": "colibri-group-prerecorded-video-privacy-2027",
+    "title": "Colibri Group Prerecorded Video Course Privacy",
+    "company": "Colibri Group",
+    "category": "Privacy",
+    "deadline": "2027-03-12",
+    "reviewedAt": "2026-11-16",
+    "sourceUrl": "https://cgvppaclassactionsettlement.com/faq/",
+    "filingUrl": "https://cgvppaclassactionsettlement.com/form/claim",
+    "summary": "A proposed Video Privacy Protection Act settlement for people who purchased or subscribed to products or services containing prerecorded video content on elitelearning.com, homeceuconnection.com, colibrirealestate.com, mckissock.com or fhea.com from October 25, 2022 to June 4, 2026. Class membership requires appearing on the administrator's class list.",
+    "benefit": "Eligible listed class members who file a timely valid online claim by 11:59 p.m. Central on March 12, 2027 may receive a pro-rata share of a $4.31 million fund after expenses. Administrator illustrations of about $51–$102 are estimates, not guaranteed payments.",
+    "proof": [
+      "Official settlement email or postcard with LoginID and PIN, if received",
+      "Receipt or account record for a qualifying prerecorded video course subscription or purchase",
+      "Purchase date between October 25, 2022 and June 4, 2026",
+      "Confirmation that the administrator's class list includes your name"
+    ],
+    "questions": [
+      {
+        "id": "course",
+        "label": "Did you purchase or subscribe to a product or service containing prerecorded video material?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "website",
+        "label": "Was it from elitelearning.com, homeceuconnection.com, colibrirealestate.com, mckissock.com or fhea.com?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "period",
+        "label": "Was the purchase or subscription between October 25, 2022 and June 4, 2026?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "list",
+        "label": "Does the settlement administrator confirm that you appear on its class list?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you an excluded Colibri affiliate, staff member, counsel or court-related person?",
+        "expected": "no",
+        "required": true
+      }
+    ],
+    "activityStart": "2022-10-25",
+    "activityEnd": "2026-06-04",
+    "receiptMatch": [
+      "colibri real estate",
+      "mckissock",
+      "elite learning",
+      "homeceuconnection"
     ]
   }
 ]
