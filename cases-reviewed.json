@@ -2553,5 +2553,323 @@
         "required": true
       }
     ]
+  },
+  {
+    "id": "teleflora-tcpa-texts-2026",
+    "title": "Teleflora Marketing Text Message Settlement",
+    "company": "Teleflora",
+    "category": "Privacy",
+    "deadline": "2026-11-17",
+    "sourceUrl": "https://www.tfsettlement.com/",
+    "filingUrl": "https://www.tfsettlement.com/submit-claim",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed settlement involving certain recipients of Teleflora marketing texts sent to cellular telephone numbers registered on the National Do Not Call Registry.",
+    "benefit": "Valid class members who submit a timely claim may receive a check of up to $251, subject to final approval and the settlement administrator's rules.",
+    "proof": [
+      "Teleflora promotional text messages, including sender and dates if available",
+      "Information showing when your residential or mobile number was registered on the National Do Not Call Registry",
+      "Claimant identification details from any official settlement notice"
+    ],
+    "questions": [
+      {
+        "id": "texts",
+        "label": "Did you receive more than one Teleflora marketing text within a 12-month period?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "registry",
+        "label": "Was your phone number on the National Do Not Call Registry for the required period before those messages?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "consent",
+        "label": "Did you receive the texts without having provided the consent described in the official class notice?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you excluded under the official settlement terms or have you opted out?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "neutrogena-skin360-bipa-2026",
+    "title": "Neutrogena Skin360 Facial Scan Privacy",
+    "company": "Neutrogena / NeoStrata Skin360",
+    "category": "Privacy",
+    "deadline": "2026-11-25",
+    "sourceUrl": "https://www.skin360bipasettlement.com/faqs/",
+    "filingUrl": "https://www.skin360bipasettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed Illinois biometric-privacy settlement for people who performed a Skin360 facial skin assessment using a mobile or web application while physically in Illinois during the defined class period.",
+    "benefit": "Valid class members filing a timely claim may receive an equal pro-rata share of the settlement fund after applicable expenses. No specific payout is guaranteed.",
+    "proof": [
+      "The approximate date you performed a Skin360 skin assessment",
+      "Information confirming the assessment occurred while you were physically in Illinois",
+      "Any Skin360 account records or confirmation, if available"
+    ],
+    "questions": [
+      {
+        "id": "illinois",
+        "label": "Were you physically in Illinois when you performed the assessment?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "scan",
+        "label": "Did you perform a facial skin assessment using Neutrogena Skin360, NeoStrata Skin360, or a covered collaboration?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "period",
+        "label": "Did the scan take place between December 9, 2019 and May 5, 2023?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you an excluded employee, settlement party, court-related person, or someone who opted out?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "navy-federal-unauthorized-loan-2026",
+    "title": "Navy Federal Unauthorized Personal Loans",
+    "company": "Navy Federal Credit Union",
+    "category": "Credit & finance",
+    "deadline": "2026-11-29",
+    "sourceUrl": "https://www.nfculoansettlement.com/page/faq",
+    "filingUrl": "https://www.nfculoansettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed settlement for certain Navy Federal members who disputed a fraudulent personal loan made between January 2023 and January 2025, where the application came from an unfamiliar device, the claim was denied and funds were not fully recovered.",
+    "benefit": "Certain loan cancellation, credit reporting and reimbursement relief is automatic for verified class members. Filing a timely claim is needed for the additional $250 payment described by the administrator.",
+    "proof": [
+      "Navy Federal settlement notice or personal-loan documents",
+      "Records of your fraudulent loan dispute and NFCU's denial",
+      "Notice claim form or details needed for the administrator's online filing"
+    ],
+    "questions": [
+      {
+        "id": "member",
+        "label": "Were you a Navy Federal Credit Union member given a personal loan between January 1, 2023 and January 31, 2025?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "unfamiliar",
+        "label": "Was that loan application submitted from an unfamiliar device and its funds deposited into your account?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "fraud",
+        "label": "Did you dispute the loan as fraudulent?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "denied",
+        "label": "Did NFCU deny the fraudulent-loan dispute in whole or in part?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "unrecovered",
+        "label": "Have the loan funds not been fully recovered, as described by the class definition?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "allstate-arizona-depreciation-2027",
+    "title": "Allstate Arizona Structural Damage Depreciation",
+    "company": "Allstate",
+    "category": "Credit & finance",
+    "deadline": "2027-01-29",
+    "sourceUrl": "https://www.hernandezdepreciationsettlement.com/",
+    "filingUrl": "https://www.hernandezdepreciationsettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed Arizona property-insurance settlement concerning allegedly improper deduction of nonmaterial depreciation from structural-damage claim payments received during the covered period.",
+    "benefit": "Eligible class members submitting valid claims may receive compensation related to withheld depreciation, subject to the settlement's class and payment calculations.",
+    "proof": [
+      "Allstate or named affiliate policy covering an Arizona structure",
+      "Property damage claim and payment documents between April 25, 2017 and October 1, 2026",
+      "Adjuster estimate identifying depreciation withholdings, if available"
+    ],
+    "questions": [
+      {
+        "id": "arizona",
+        "label": "Was the insured structure in Arizona?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "insurer",
+        "label": "Was it insured by Allstate or one of the named affiliates included in the settlement?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "damage",
+        "label": "Did you submit a claim for structural property damage?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "payment",
+        "label": "Did you receive an insurance payment between April 25, 2017 and October 1, 2026?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "depreciation",
+        "label": "Was nonmaterial depreciation withheld as described in the administrator's notice?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "natera-genetic-screening-billing-2027",
+    "title": "Natera Panorama / Horizon Genetic Testing Billing",
+    "company": "Natera",
+    "category": "Credit & finance",
+    "deadline": "2027-05-03",
+    "sourceUrl": "https://www.geneticscreeningtestsettlement.com/faq",
+    "filingUrl": "https://www.geneticscreeningtestsettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed settlement involving certain U.S. patients billed more than the specified thresholds for Natera Panorama prenatal screening or Horizon genetic-carrier screening between July 10, 2019 and September 2, 2026. This is separate from the earlier closed Natera prenatal-testing settlement.",
+    "benefit": "Timely valid claims may receive a pro-rata fund share when Natera's records show qualifying out-of-pocket payments; certain other members may receive up to $50 under the administrator's separate allocation rules.",
+    "proof": [
+      "Natera Panorama or Horizon test billing statement and test type",
+      "Invoice showing amount billed and test date",
+      "Settlement notice identifying the applicable class payment group, if available"
+    ],
+    "questions": [
+      {
+        "id": "us",
+        "label": "Were you a patient in the United States who had Natera Panorama or Horizon screening?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "period",
+        "label": "Was the test performed between July 10, 2019 and September 2, 2026?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "threshold",
+        "label": "Were you billed more than $249 for Panorama without microdeletions, $349 for Panorama with microdeletions, or $349 for Horizon carrier screening, as applicable?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "class",
+        "label": "Do you meet the administrator's class definition and notice requirements?",
+        "expected": "yes",
+        "required": true
+      }
+    ],
+    "activityStart": "2019-07-10",
+    "activityEnd": "2026-09-02",
+    "receiptMatch": [
+      "natera"
+    ]
+  },
+  {
+    "id": "laboratory-services-cooperative-breach-2026",
+    "title": "Laboratory Services Cooperative Data Incident",
+    "company": "Laboratory Services Cooperative",
+    "category": "Data breach",
+    "deadline": "2026-11-24",
+    "sourceUrl": "https://lscdatasettlement.com/",
+    "filingUrl": "https://lscdatasettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed settlement for certain U.S. residents whose personal information may have been exposed in the 2024 Laboratory Services Cooperative incident, including certain people whose tests were ordered by Planned Parenthood health centers and LSC employees.",
+    "benefit": "Eligible timely claims may provide documented loss reimbursement, pro-rata cash, and credit or medical-information monitoring benefits. The administrator determines eligibility and payment amounts.",
+    "proof": [
+      "Notice concerning Laboratory Services Cooperative's October 2024 incident",
+      "Information linking you to LSC lab tests or employment and the covered data incident",
+      "Supporting third-party records for out-of-pocket loss reimbursement"
+    ],
+    "questions": [
+      {
+        "id": "usa",
+        "label": "Were you a United States resident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "lab",
+        "label": "Were you an LSC employee, or did you receive or pay for covered lab testing ordered by a Planned Parenthood health center on or before October 27, 2024?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "compromised",
+        "label": "Was your personal information potentially compromised by the Laboratory Services Cooperative incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "notice",
+        "label": "Did you receive a notice or confirm that you are included in the administrator's class?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "fertility-centers-illinois-tracking-2026",
+    "title": "Fertility Centers of Illinois Website Privacy",
+    "company": "Fertility Centers of Illinois",
+    "category": "Privacy",
+    "deadline": "2026-12-03",
+    "sourceUrl": "https://fcionlinesettlement.com/faq",
+    "filingUrl": "https://fcionlinesettlement.com/",
+    "reviewedAt": "2026-11-16",
+    "summary": "A proposed website-privacy settlement for people in the United States who accessed and used Fertility Centers of Illinois' website between September 1, 2020 and December 31, 2024, concerning alleged third-party tracking disclosures.",
+    "benefit": "Class members filing timely valid claims may receive an equal pro-rata distribution from the settlement fund after approved costs. Payment is not guaranteed.",
+    "proof": [
+      "Approximate dates when you accessed and used fcionline.com",
+      "Any retained website or appointment-related information confirming access, if available",
+      "Class notice or claimant identifier, if supplied"
+    ],
+    "questions": [
+      {
+        "id": "usa",
+        "label": "Were you in the United States when you used the website?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "website",
+        "label": "Did you access and use fcionline.com?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "period",
+        "label": "Did you access the website between September 1, 2020 and December 31, 2024?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Have you opted out or are you otherwise excluded under the settlement terms?",
+        "expected": "no",
+        "required": true
+      }
+    ]
   }
 ]
