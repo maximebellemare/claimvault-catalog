@@ -3233,5 +3233,116 @@
       "elite learning",
       "homeceuconnection"
     ]
+  },
+  {
+    "id": "renkim-data-incident-2027",
+    "title": "Renkim Data Incident Settlement",
+    "company": "Renkim Corporation",
+    "category": "Data breach",
+    "deadline": "2027-01-13",
+    "sourceUrl": "https://renkimdatasettlement.com/form/claim",
+    "filingUrl": "https://renkimdatasettlement.com/form/claim",
+    "reviewedAt": "2026-11-17",
+    "summary": "People in the United States whom Renkim sent notice of information affected in its March 2025 cyberattack may be included. The official claim form requires a notice LoginID and PIN.",
+    "benefit": "Qualifying claimants may seek three years of credit monitoring plus a $40 alternative cash payment, up to $60 for qualifying time, or up to $4,000 for documented losses. Payment options and evidence restrictions apply.",
+    "proof": [
+      "Notice of data incident with LoginID and PIN, or contact administrator to obtain them",
+      "Proof of qualifying unreimbursed losses for documented-loss claims",
+      "Records of time spent addressing the incident if seeking lost-time compensation"
+    ],
+    "questions": [
+      {
+        "id": "us",
+        "label": "Do you reside in the United States?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "notice",
+        "label": "Did Renkim notify you that your information was impacted in the March 2025 incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you an excluded Renkim-related party, official, judge, court staff member, or did you opt out?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "blue-ridge-rural-water-data-2027",
+    "title": "Blue Ridge Rural Water Data Incident Settlement",
+    "company": "Blue Ridge Rural Water Company",
+    "category": "Data breach",
+    "deadline": "2027-01-14",
+    "sourceUrl": "https://www.blueridgedatasettlement.com/form/claim",
+    "filingUrl": "https://www.blueridgedatasettlement.com/form/claim",
+    "reviewedAt": "2026-11-17",
+    "summary": "People residing in the United States whose private information was impacted in Blue Ridge Rural Water's July 2024 incident, including notified individuals, may be covered.",
+    "benefit": "Qualifying claimants may seek two years of credit monitoring plus either a $50 alternative payment or documented expenses, with separate caps and exclusions for ordinary and extraordinary losses. Loss and alternative-cash benefits cannot be combined.",
+    "proof": [
+      "Notice of data incident with LoginID and PIN, or request credentials from administrator",
+      "Documents for qualifying unreimbursed out-of-pocket expenses if claiming losses",
+      "Relevant banking or identity-theft records if alleging exceptional losses"
+    ],
+    "questions": [
+      {
+        "id": "us",
+        "label": "Do you reside in the United States?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "affected",
+        "label": "Was your information impacted in Blue Ridge Rural Water's July 2024 data incident?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "excluded",
+        "label": "Are you an excluded company-related party, court official, incident perpetrator, or did you opt out?",
+        "expected": "no",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": "xarelto-canada-bleeding-2027",
+    "title": "Xarelto Canadian Bleeding Settlement — Primary Claims",
+    "company": "Bayer Xarelto",
+    "category": "Products",
+    "deadline": "2027-02-17",
+    "sourceUrl": "https://www.mnp.ca/en/services/corporate-and-consumer-insolvency/class-action/xarelto-settlement",
+    "filingUrl": "https://www.mnp.ca/-/media/files/mnpdebt/legal/xarelto-claim-form-en.pdf",
+    "reviewedAt": "2026-11-17",
+    "summary": "Court-approved Canadian settlement for people prescribed and taking Xarelto in Canada before October 27, 2025 who experienced specific serious bleeding events. The screening below covers primary claimants only; qualifying family claims have separate rules.",
+    "benefit": "Potential compensation determined by the administrator's injury-related protocol; no fixed individual payment is promised. Claims require a medical evidence package and must be received by February 17, 2027 (5 p.m., per official form).",
+    "proof": [
+      "Prescribing and pharmacy records documenting Xarelto use in Canada during covered dates",
+      "Medical records showing qualifying serious bleeding event and timing relative to medication",
+      "Completed official seven-part claim form and required supporting evidence; family claimants use separate instructions"
+    ],
+    "questions": [
+      {
+        "id": "canada",
+        "label": "Did you reside in Canada and take prescribed Xarelto in Canada within the published class period?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "bleeding",
+        "label": "Did you experience a covered severe bleeding event involving death, lasting significant organ or brain injury, or at least 24 hours in hospital?",
+        "expected": "yes",
+        "required": true
+      },
+      {
+        "id": "timing",
+        "label": "Did you use Xarelto within 24 hours before that bleeding event?",
+        "expected": "yes",
+        "required": true
+      }
+    ]
   }
 ]
